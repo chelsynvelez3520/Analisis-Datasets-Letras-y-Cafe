@@ -1,0 +1,1013 @@
+ID_Transaccion,Sucursal,Genero_Libro,Formato,Precio_Lista,Unidades_Vendidas,Descuento_Aplicado,Metodo_Pago
+LIB-9001,Galería de Arte,Ensayo Científico,Bolsillo,72000.0,1,0.0,Efectivo
+LIB-9002,Centro Histórico,Historia y Crítica,Edición Ilustrada,45000.0,1,0.1,Efectivo
+LIB-9003,Terminal,Novela Gráfica,Bolsillo,115000.0,1,0.0,Tarjeta Débito
+LIB-9004,Galería de Arte,Ensayo Científico,Tapa Blanda,45000.0,5,0.0,Tarjeta Crédito
+LIB-9005,Centro Histórico,Literatura Clásica,Tapa Blanda,32000.0,2,0.05,Tarjeta Crédito
+LIB-9006,Zona Rosa,Literatura Clásica,Edición Ilustrada,89000.0,4,0.0,Transferencia QR
+LIB-9007,Terminal,Ensayo Científico,Tapa Blanda,45000.0,3,,Tarjeta Débito
+LIB-9008,Zona Rosa,Ensayo Científico,Tapa Blanda,58000.0,3,0.0,Tarjeta Débito
+LIB-9009,Terminal,Ciencia Ficción,Edición Ilustrada,58000.0,5,0.0,Tarjeta Crédito
+LIB-9010,Zona Rosa,Historia y Crítica,Edición Ilustrada,32000.0,5,0.0,Transferencia QR
+LIB-9011,Terminal,Ensayo Científico,Bolsillo,58000.0,4,0.0,Tarjeta Débito
+LIB-9012,Centro Histórico,Novela Gráfica,Bolsillo,45000.0,3,0.1,Tarjeta Crédito
+LIB-9013,Campus Universitario,Novela Gráfica,Bolsillo,72000.0,5,,Tarjeta Débito
+LIB-9014,Campus Universitario,Novela Gráfica,Tapa Dura,45000.0,1,,Tarjeta Crédito
+LIB-9015,Zona Rosa,Novela Gráfica,Tapa Dura,32000.0,4,0.1,Tarjeta Débito
+LIB-9016,Galería de Arte,Historia y Crítica,Bolsillo,45000.0,4,0.0,Tarjeta Débito
+LIB-9017,Galería de Arte,Ensayo Científico,Bolsillo,32000.0,3,0.05,Tarjeta Crédito
+LIB-9018,Centro Histórico,Literatura Clásica,Tapa Blanda,72000.0,2,0.15,Tarjeta Débito
+LIB-9019,Centro Histórico,Novela Gráfica,Edición Ilustrada,72000.0,2,0.0,Transferencia QR
+LIB-9020,Centro Histórico,Historia y Crítica,Bolsillo,32000.0,6,0.0,Efectivo
+LIB-9021,Centro Histórico,Novela Gráfica,Bolsillo,58000.0,6,0.0,Transferencia QR
+LIB-9022,Centro Histórico,Ensayo Científico,Tapa Dura,45000.0,4,0.05,Efectivo
+LIB-9023,Centro Histórico,Ensayo Científico,Bolsillo,58000.0,2,0.0,Transferencia QR
+LIB-9024,Galería de Arte,Ensayo Científico,Edición Ilustrada,32000.0,6,0.05,Tarjeta Crédito
+LIB-9025,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,4,,Transferencia QR
+LIB-9026,Terminal,Ciencia Ficción,Tapa Blanda,58000.0,6,0.05,Tarjeta Débito
+LIB-9027,Terminal,Ciencia Ficción,Edición Ilustrada,58000.0,5,0.0,Tarjeta Débito
+LIB-9028,Terminal,Novela Gráfica,Tapa Dura,58000.0,3,0.0,Transferencia QR
+LIB-9029,Terminal,Novela Gráfica,Tapa Dura,45000.0,3,0.0,Tarjeta Crédito
+LIB-9030,Zona Rosa,Ciencia Ficción,Edición Ilustrada,45000.0,6,0.15,Tarjeta Crédito
+LIB-9031,Terminal,Historia y Crítica,Edición Ilustrada,58000.0,4,0.1,Tarjeta Débito
+LIB-9032,Campus Universitario,Historia y Crítica,Bolsillo,72000.0,5,0.0,Efectivo
+LIB-9033,Zona Rosa,Historia y Crítica,Bolsillo,72000.0,1,0.05,Efectivo
+LIB-9034,Galería de Arte,Historia y Crítica,Tapa Blanda,32000.0,2,0.0,Tarjeta Crédito
+LIB-9035,Campus Universitario,Ciencia Ficción,Tapa Blanda,32000.0,1,0.1,Tarjeta Crédito
+LIB-9036,Centro Histórico,Literatura Clásica,Tapa Blanda,32000.0,5,0.1,Transferencia QR
+LIB-9037,Zona Rosa,Literatura Clásica,Tapa Dura,32000.0,5,0.0,Transferencia QR
+LIB-9038,Campus Universitario,Ensayo Científico,Tapa Blanda,,3,0.1,Tarjeta Crédito
+LIB-9039,Galería de Arte,Ciencia Ficción,Tapa Dura,45000.0,1,0.05,Transferencia QR
+LIB-9040,Zona Rosa,Literatura Clásica,Tapa Blanda,58000.0,3,0.0,Tarjeta Débito
+LIB-9041,Zona Rosa,Ciencia Ficción,Tapa Dura,72000.0,4,0.2,Tarjeta Crédito
+LIB-9042,Centro Histórico,Ciencia Ficción,Tapa Dura,32000.0,2,0.0,Transferencia QR
+LIB-9043,Campus Universitario,Ensayo Científico,Bolsillo,32000.0,4,0.05,Efectivo
+LIB-9044,Campus Universitario,Novela Gráfica,Bolsillo,32000.0,6,0.05,Tarjeta Débito
+LIB-9045,Terminal,Historia y Crítica,Edición Ilustrada,58000.0,4,0.15,Tarjeta Débito
+LIB-9046,Centro Histórico,Historia y Crítica,Bolsillo,45000.0,4,0.0,Tarjeta Crédito
+LIB-9047,Zona Rosa,Historia y Crítica,Edición Ilustrada,32000.0,3,0.0,Tarjeta Débito
+LIB-9048,Terminal,Ciencia Ficción,Bolsillo,72000.0,6,0.05,Tarjeta Crédito
+LIB-9049,Centro Histórico,Literatura Clásica,Tapa Dura,89000.0,2,0.0,Tarjeta Débito
+LIB-9050,Campus Universitario,Ensayo Científico,Bolsillo,58000.0,2,0.1,Efectivo
+LIB-9051,Terminal,Literatura Clásica,Edición Ilustrada,45000.0,1,0.0,Transferencia QR
+LIB-9052,Zona Rosa,Ciencia Ficción,Tapa Blanda,72000.0,6,0.15,Efectivo
+LIB-9053,Zona Rosa,Ciencia Ficción,Bolsillo,32000.0,1,0.0,Transferencia QR
+LIB-9054,Campus Universitario,Ensayo Científico,Edición Ilustrada,89000.0,3,0.0,Tarjeta Débito
+LIB-9055,Galería de Arte,Ciencia Ficción,Tapa Dura,45000.0,1,0.1,Efectivo
+LIB-9056,Terminal,Literatura Clásica,Edición Ilustrada,45000.0,3,0.1,Tarjeta Débito
+LIB-9057,Terminal,Ensayo Científico,Edición Ilustrada,89000.0,1,0.0,Tarjeta Débito
+LIB-9058,Campus Universitario,Historia y Crítica,Edición Ilustrada,89000.0,2,0.0,Efectivo
+LIB-9059,Galería de Arte,Ciencia Ficción,Tapa Dura,45000.0,3,0.05,Tarjeta Débito
+LIB-9060,Centro Histórico,Historia y Crítica,Tapa Dura,58000.0,2,0.0,Tarjeta Crédito
+LIB-9061,Centro Histórico,Historia y Crítica,Bolsillo,45000.0,6,0.05,Efectivo
+LIB-9062,Galería de Arte,Ensayo Científico,Tapa Dura,45000.0,2,0.0,Tarjeta Crédito
+LIB-9063,Zona Rosa,Ciencia Ficción,Bolsillo,45000.0,6,0.2,Transferencia QR
+LIB-9064,Galería de Arte,Literatura Clásica,Tapa Blanda,72000.0,1,0.05,Transferencia QR
+LIB-9065,Zona Rosa,Historia y Crítica,Bolsillo,45000.0,4,0.0,Transferencia QR
+LIB-9066,Centro Histórico,Ciencia Ficción,Tapa Dura,72000.0,5,0.0,Tarjeta Crédito
+LIB-9067,Terminal,Literatura Clásica,Tapa Dura,72000.0,6,0.1,Transferencia QR
+LIB-9068,Campus Universitario,Literatura Clásica,Edición Ilustrada,58000.0,6,0.0,Transferencia QR
+LIB-9069,Terminal,Historia y Crítica,Bolsillo,89000.0,2,0.15,Tarjeta Débito
+LIB-9070,Galería de Arte,Novela Gráfica,Bolsillo,58000.0,5,0.1,Tarjeta Débito
+LIB-9071,Galería de Arte,Historia y Crítica,Tapa Blanda,72000.0,5,0.05,Tarjeta Débito
+LIB-9072,Terminal,Ciencia Ficción,Bolsillo,58000.0,4,0.1,Tarjeta Débito
+LIB-9073,Galería de Arte,Literatura Clásica,Tapa Dura,58000.0,6,0.05,Transferencia QR
+LIB-9074,Centro Histórico,Historia y Crítica,Bolsillo,58000.0,5,0.0,Tarjeta Débito
+LIB-9075,Centro Histórico,Literatura Clásica,Bolsillo,45000.0,5,0.0,Tarjeta Débito
+LIB-9076,Galería de Arte,Historia y Crítica,Edición Ilustrada,72000.0,5,,Tarjeta Crédito
+LIB-9077,Terminal,Historia y Crítica,Tapa Dura,89000.0,5,0.0,Tarjeta Crédito
+LIB-9078,Terminal,Historia y Crítica,Tapa Dura,45000.0,2,,Tarjeta Crédito
+LIB-9079,Centro Histórico,Novela Gráfica,Edición Ilustrada,,5,0.0,Tarjeta Crédito
+LIB-9080,Galería de Arte,Historia y Crítica,Tapa Dura,58000.0,3,,Tarjeta Débito
+LIB-9081,Centro Histórico,Historia y Crítica,Bolsillo,72000.0,3,0.0,Efectivo
+LIB-9082,Centro Histórico,Ensayo Científico,Bolsillo,45000.0,2,0.05,Tarjeta Débito
+LIB-9083,Centro Histórico,Ciencia Ficción,Tapa Dura,45000.0,1,0.1,Transferencia QR
+LIB-9084,Galería de Arte,Ciencia Ficción,Tapa Blanda,32000.0,2,0.05,Transferencia QR
+LIB-9085,Centro Histórico,Novela Gráfica,Bolsillo,,3,0.05,Tarjeta Crédito
+LIB-9086,Centro Histórico,Ensayo Científico,Edición Ilustrada,115000.0,5,0.0,Transferencia QR
+LIB-9087,Galería de Arte,Ensayo Científico,Edición Ilustrada,32000.0,3,0.15,Transferencia QR
+LIB-9088,Zona Rosa,Ciencia Ficción,Edición Ilustrada,58000.0,1,0.0,Efectivo
+LIB-9089,Zona Rosa,Novela Gráfica,Tapa Dura,45000.0,3,0.1,Transferencia QR
+LIB-9090,Campus Universitario,Literatura Clásica,Bolsillo,,4,,Tarjeta Crédito
+LIB-9091,Galería de Arte,Ensayo Científico,Tapa Dura,58000.0,3,0.1,Tarjeta Débito
+LIB-9092,Centro Histórico,Ensayo Científico,Tapa Dura,58000.0,4,0.0,Tarjeta Débito
+LIB-9093,Terminal,Historia y Crítica,Tapa Blanda,45000.0,2,0.05,Tarjeta Débito
+LIB-9094,Terminal,Novela Gráfica,Tapa Blanda,58000.0,1,0.0,Tarjeta Débito
+LIB-9095,Campus Universitario,Historia y Crítica,Tapa Blanda,32000.0,3,0.0,Efectivo
+LIB-9096,Zona Rosa,Novela Gráfica,Edición Ilustrada,45000.0,4,0.05,Tarjeta Crédito
+LIB-9097,Campus Universitario,Literatura Clásica,Bolsillo,72000.0,4,0.0,Transferencia QR
+LIB-9098,Terminal,Novela Gráfica,Bolsillo,45000.0,4,0.05,Tarjeta Débito
+LIB-9099,Galería de Arte,Historia y Crítica,Tapa Blanda,45000.0,1,0.05,Tarjeta Crédito
+LIB-9100,Campus Universitario,Historia y Crítica,Tapa Dura,45000.0,6,0.15,Tarjeta Débito
+LIB-9101,Galería de Arte,Novela Gráfica,Tapa Dura,58000.0,2,0.1,Tarjeta Crédito
+LIB-9102,Campus Universitario,Novela Gráfica,Tapa Blanda,32000.0,1,0.0,Efectivo
+LIB-9103,Centro Histórico,Literatura Clásica,Tapa Blanda,58000.0,3,0.0,Transferencia QR
+LIB-9104,Centro Histórico,Historia y Crítica,Tapa Blanda,72000.0,4,0.1,Tarjeta Crédito
+LIB-9105,Galería de Arte,Historia y Crítica,Tapa Dura,58000.0,1,0.15,Tarjeta Crédito
+LIB-9106,Galería de Arte,Historia y Crítica,Edición Ilustrada,72000.0,2,0.05,Tarjeta Crédito
+LIB-9107,Campus Universitario,Literatura Clásica,Bolsillo,58000.0,3,0.0,Transferencia QR
+LIB-9108,Galería de Arte,Historia y Crítica,Tapa Blanda,58000.0,6,0.0,Tarjeta Débito
+LIB-9109,Terminal,Historia y Crítica,Tapa Dura,45000.0,4,0.1,Efectivo
+LIB-9110,Terminal,Novela Gráfica,Edición Ilustrada,,5,0.05,Tarjeta Débito
+LIB-9111,Terminal,Novela Gráfica,Tapa Blanda,72000.0,1,0.0,Transferencia QR
+LIB-9112,Centro Histórico,Literatura Clásica,Tapa Blanda,89000.0,4,0.2,Tarjeta Crédito
+LIB-9113,Galería de Arte,Historia y Crítica,Bolsillo,115000.0,2,0.05,Tarjeta Débito
+LIB-9114,Centro Histórico,Historia y Crítica,Tapa Blanda,58000.0,5,0.0,Transferencia QR
+LIB-9115,Zona Rosa,Historia y Crítica,Tapa Blanda,72000.0,1,0.1,Tarjeta Débito
+LIB-9116,Centro Histórico,Ensayo Científico,Edición Ilustrada,89000.0,3,0.1,Efectivo
+LIB-9117,Terminal,Ensayo Científico,Tapa Dura,89000.0,2,0.15,Tarjeta Débito
+LIB-9118,Terminal,Novela Gráfica,Edición Ilustrada,32000.0,4,0.15,Tarjeta Débito
+LIB-9119,Terminal,Literatura Clásica,Edición Ilustrada,45000.0,5,0.0,Tarjeta Débito
+LIB-9120,Centro Histórico,Literatura Clásica,Tapa Blanda,45000.0,6,0.15,Tarjeta Débito
+LIB-9121,Zona Rosa,Historia y Crítica,Tapa Dura,58000.0,4,0.0,Tarjeta Crédito
+LIB-9122,Campus Universitario,Ciencia Ficción,Tapa Dura,32000.0,4,0.0,Efectivo
+LIB-9123,Centro Histórico,Novela Gráfica,Edición Ilustrada,32000.0,3,0.1,Tarjeta Débito
+LIB-9124,Centro Histórico,Novela Gráfica,Bolsillo,58000.0,5,0.05,Tarjeta Débito
+LIB-9125,Galería de Arte,Literatura Clásica,Edición Ilustrada,32000.0,6,0.2,Transferencia QR
+LIB-9126,Centro Histórico,Literatura Clásica,Bolsillo,58000.0,6,0.0,Efectivo
+LIB-9127,Zona Rosa,Literatura Clásica,Bolsillo,58000.0,1,0.1,Transferencia QR
+LIB-9128,Centro Histórico,Historia y Crítica,Tapa Dura,89000.0,5,0.0,Tarjeta Crédito
+LIB-9129,Campus Universitario,Novela Gráfica,Bolsillo,58000.0,6,0.0,Efectivo
+LIB-9130,Campus Universitario,Literatura Clásica,Tapa Blanda,45000.0,4,0.1,Transferencia QR
+LIB-9131,Galería de Arte,Novela Gráfica,Bolsillo,58000.0,6,0.05,Tarjeta Débito
+LIB-9132,Galería de Arte,Ciencia Ficción,Tapa Blanda,32000.0,5,0.1,Tarjeta Crédito
+LIB-9133,Centro Histórico,Historia y Crítica,Tapa Blanda,58000.0,4,0.2,Efectivo
+LIB-9134,Zona Rosa,Historia y Crítica,Tapa Dura,72000.0,2,0.0,Tarjeta Crédito
+LIB-9135,Campus Universitario,Historia y Crítica,Tapa Dura,58000.0,5,0.0,Tarjeta Débito
+LIB-9136,Galería de Arte,Literatura Clásica,Tapa Blanda,89000.0,1,0.0,Transferencia QR
+LIB-9137,Terminal,Historia y Crítica,Bolsillo,58000.0,3,0.0,Tarjeta Débito
+LIB-9138,Terminal,Literatura Clásica,Bolsillo,72000.0,4,0.05,Tarjeta Crédito
+LIB-9139,Terminal,Novela Gráfica,Edición Ilustrada,72000.0,4,0.05,Efectivo
+LIB-9140,Centro Histórico,Ciencia Ficción,Tapa Blanda,58000.0,4,0.0,Efectivo
+LIB-9141,Zona Rosa,Novela Gráfica,Bolsillo,,4,0.1,Tarjeta Débito
+LIB-9142,Galería de Arte,Novela Gráfica,Tapa Blanda,72000.0,2,0.0,Tarjeta Débito
+LIB-9143,Terminal,Novela Gráfica,Edición Ilustrada,45000.0,4,0.05,Tarjeta Crédito
+LIB-9144,Galería de Arte,Novela Gráfica,Edición Ilustrada,45000.0,2,0.0,Tarjeta Débito
+LIB-9145,Zona Rosa,Ciencia Ficción,Tapa Blanda,32000.0,5,0.2,Tarjeta Débito
+LIB-9146,Galería de Arte,Historia y Crítica,Tapa Dura,58000.0,4,0.0,Tarjeta Débito
+LIB-9147,Campus Universitario,Literatura Clásica,Edición Ilustrada,45000.0,1,,Tarjeta Débito
+LIB-9148,Galería de Arte,Historia y Crítica,Tapa Dura,,5,0.0,Transferencia QR
+LIB-9149,Centro Histórico,Historia y Crítica,Tapa Dura,32000.0,6,0.0,Tarjeta Crédito
+LIB-9150,Galería de Arte,Novela Gráfica,Edición Ilustrada,58000.0,3,,Tarjeta Crédito
+LIB-9151,Campus Universitario,Historia y Crítica,Tapa Blanda,45000.0,5,0.1,Transferencia QR
+LIB-9152,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,3,0.1,Efectivo
+LIB-9153,Campus Universitario,Ciencia Ficción,Tapa Dura,32000.0,1,0.1,Transferencia QR
+LIB-9154,Galería de Arte,Novela Gráfica,Tapa Dura,45000.0,4,0.0,Tarjeta Débito
+LIB-9155,Campus Universitario,Historia y Crítica,Bolsillo,32000.0,2,0.05,Transferencia QR
+LIB-9156,Zona Rosa,Historia y Crítica,Edición Ilustrada,72000.0,2,0.1,Transferencia QR
+LIB-9157,Campus Universitario,Ensayo Científico,Bolsillo,58000.0,6,0.0,Efectivo
+LIB-9158,Zona Rosa,Novela Gráfica,Tapa Blanda,,5,0.1,Efectivo
+LIB-9159,Campus Universitario,Ensayo Científico,Edición Ilustrada,45000.0,2,0.15,Transferencia QR
+LIB-9160,Galería de Arte,Ciencia Ficción,Bolsillo,45000.0,2,0.15,Transferencia QR
+LIB-9161,Zona Rosa,Literatura Clásica,Edición Ilustrada,32000.0,6,0.0,Tarjeta Débito
+LIB-9162,Galería de Arte,Literatura Clásica,Edición Ilustrada,72000.0,3,0.1,Tarjeta Crédito
+LIB-9163,Campus Universitario,Literatura Clásica,Tapa Dura,32000.0,1,0.05,Tarjeta Crédito
+LIB-9164,Zona Rosa,Ciencia Ficción,Tapa Blanda,32000.0,1,0.1,Tarjeta Crédito
+LIB-9165,Centro Histórico,Novela Gráfica,Edición Ilustrada,32000.0,3,0.1,Transferencia QR
+LIB-9166,Campus Universitario,Historia y Crítica,Tapa Blanda,89000.0,2,0.0,Tarjeta Crédito
+LIB-9167,Terminal,Ciencia Ficción,Bolsillo,58000.0,5,0.2,Tarjeta Débito
+LIB-9168,Centro Histórico,Ensayo Científico,Tapa Dura,89000.0,6,0.0,Tarjeta Débito
+LIB-9169,Terminal,Novela Gráfica,Tapa Blanda,72000.0,2,0.05,Tarjeta Crédito
+LIB-9170,Zona Rosa,Novela Gráfica,Tapa Blanda,72000.0,2,,Transferencia QR
+LIB-9171,Terminal,Ensayo Científico,Bolsillo,72000.0,2,0.0,Tarjeta Crédito
+LIB-9172,Campus Universitario,Ciencia Ficción,Tapa Dura,72000.0,5,0.1,Tarjeta Crédito
+LIB-9173,Centro Histórico,Literatura Clásica,Bolsillo,45000.0,2,,Transferencia QR
+LIB-9174,Zona Rosa,Ciencia Ficción,Tapa Blanda,58000.0,5,0.1,Transferencia QR
+LIB-9175,Campus Universitario,Literatura Clásica,Edición Ilustrada,72000.0,5,0.05,Efectivo
+LIB-9176,Galería de Arte,Ensayo Científico,Tapa Blanda,,2,0.0,Tarjeta Débito
+LIB-9177,Campus Universitario,Ensayo Científico,Edición Ilustrada,45000.0,1,0.0,Tarjeta Débito
+LIB-9178,Terminal,Ensayo Científico,Edición Ilustrada,58000.0,2,0.05,Transferencia QR
+LIB-9179,Centro Histórico,Literatura Clásica,Tapa Blanda,72000.0,2,0.05,Transferencia QR
+LIB-9180,Galería de Arte,Ensayo Científico,Tapa Dura,72000.0,3,0.15,Tarjeta Débito
+LIB-9181,Centro Histórico,Historia y Crítica,Edición Ilustrada,32000.0,6,0.0,Transferencia QR
+LIB-9182,Campus Universitario,Novela Gráfica,Bolsillo,32000.0,1,0.05,Tarjeta Crédito
+LIB-9183,Zona Rosa,Historia y Crítica,Tapa Dura,72000.0,5,0.0,Transferencia QR
+LIB-9184,Zona Rosa,Literatura Clásica,Tapa Blanda,58000.0,2,0.15,Tarjeta Débito
+LIB-9185,Galería de Arte,Ciencia Ficción,Bolsillo,72000.0,2,,Transferencia QR
+LIB-9186,Centro Histórico,Novela Gráfica,Edición Ilustrada,58000.0,2,0.2,Tarjeta Débito
+LIB-9187,Centro Histórico,Ciencia Ficción,Tapa Blanda,32000.0,5,0.05,Tarjeta Débito
+LIB-9188,Zona Rosa,Novela Gráfica,Bolsillo,72000.0,5,0.05,Tarjeta Crédito
+LIB-9189,Centro Histórico,Historia y Crítica,Bolsillo,72000.0,4,0.05,Efectivo
+LIB-9190,Campus Universitario,Ciencia Ficción,Edición Ilustrada,58000.0,5,0.0,Transferencia QR
+LIB-9191,Campus Universitario,Historia y Crítica,Edición Ilustrada,89000.0,5,,Tarjeta Débito
+LIB-9192,Galería de Arte,Historia y Crítica,Bolsillo,72000.0,4,0.0,Tarjeta Crédito
+LIB-9193,Campus Universitario,Ensayo Científico,Tapa Blanda,45000.0,1,0.0,Tarjeta Débito
+LIB-9194,Zona Rosa,Novela Gráfica,Tapa Blanda,58000.0,6,0.0,Tarjeta Débito
+LIB-9195,Campus Universitario,Ensayo Científico,Tapa Dura,72000.0,3,0.0,Transferencia QR
+LIB-9196,Terminal,Ciencia Ficción,Edición Ilustrada,72000.0,2,0.0,Tarjeta Débito
+LIB-9197,Campus Universitario,Ciencia Ficción,Bolsillo,72000.0,3,0.05,Transferencia QR
+LIB-9198,Campus Universitario,Literatura Clásica,Tapa Dura,45000.0,5,0.1,Efectivo
+LIB-9199,Terminal,Literatura Clásica,Edición Ilustrada,58000.0,2,0.0,Tarjeta Crédito
+LIB-9200,Campus Universitario,Novela Gráfica,Tapa Dura,45000.0,1,0.2,Tarjeta Crédito
+LIB-9201,Zona Rosa,Historia y Crítica,Tapa Dura,58000.0,3,,Tarjeta Débito
+LIB-9202,Zona Rosa,Ciencia Ficción,Edición Ilustrada,72000.0,4,0.05,Tarjeta Débito
+LIB-9203,Centro Histórico,Novela Gráfica,Tapa Dura,89000.0,3,0.1,Tarjeta Débito
+LIB-9204,Zona Rosa,Novela Gráfica,Bolsillo,45000.0,2,0.0,Tarjeta Crédito
+LIB-9205,Terminal,Historia y Crítica,Tapa Dura,45000.0,5,0.0,Transferencia QR
+LIB-9206,Terminal,Ciencia Ficción,Edición Ilustrada,72000.0,4,0.15,Tarjeta Crédito
+LIB-9207,Terminal,Historia y Crítica,Edición Ilustrada,58000.0,4,0.15,Transferencia QR
+LIB-9208,Centro Histórico,Historia y Crítica,Tapa Dura,72000.0,2,0.2,Tarjeta Crédito
+LIB-9209,Terminal,Literatura Clásica,Bolsillo,,4,0.15,Tarjeta Crédito
+LIB-9210,Campus Universitario,Ciencia Ficción,Tapa Dura,58000.0,5,0.15,Tarjeta Débito
+LIB-9211,Zona Rosa,Ciencia Ficción,Bolsillo,58000.0,1,0.15,Efectivo
+LIB-9212,Galería de Arte,Historia y Crítica,Edición Ilustrada,45000.0,6,0.05,Efectivo
+LIB-9213,Zona Rosa,Ciencia Ficción,Bolsillo,32000.0,2,0.1,Tarjeta Débito
+LIB-9214,Galería de Arte,Ciencia Ficción,Tapa Blanda,72000.0,4,0.15,Efectivo
+LIB-9215,Campus Universitario,Novela Gráfica,Edición Ilustrada,32000.0,4,0.1,Tarjeta Débito
+LIB-9216,Terminal,Ciencia Ficción,Bolsillo,115000.0,2,0.05,Tarjeta Débito
+LIB-9217,Galería de Arte,Ensayo Científico,Tapa Dura,58000.0,5,,Tarjeta Crédito
+LIB-9218,Zona Rosa,Historia y Crítica,Edición Ilustrada,115000.0,3,0.0,Efectivo
+LIB-9219,Terminal,Ciencia Ficción,Tapa Blanda,115000.0,6,0.0,Tarjeta Débito
+LIB-9220,Galería de Arte,Novela Gráfica,Bolsillo,58000.0,3,0.0,Tarjeta Crédito
+LIB-9221,Campus Universitario,Ensayo Científico,Edición Ilustrada,45000.0,4,0.1,Tarjeta Crédito
+LIB-9222,Zona Rosa,Novela Gráfica,Bolsillo,72000.0,3,0.15,Tarjeta Crédito
+LIB-9223,Terminal,Historia y Crítica,Tapa Dura,45000.0,4,0.15,Efectivo
+LIB-9224,Terminal,Ciencia Ficción,Edición Ilustrada,72000.0,4,0.0,Transferencia QR
+LIB-9225,Centro Histórico,Novela Gráfica,Tapa Blanda,58000.0,1,,Tarjeta Débito
+LIB-9226,Terminal,Ensayo Científico,Tapa Dura,45000.0,3,0.1,Tarjeta Débito
+LIB-9227,Zona Rosa,Novela Gráfica,Edición Ilustrada,32000.0,4,0.2,Tarjeta Débito
+LIB-9228,Zona Rosa,Novela Gráfica,Edición Ilustrada,58000.0,1,0.2,Transferencia QR
+LIB-9229,Centro Histórico,Literatura Clásica,Tapa Dura,45000.0,1,0.0,Tarjeta Crédito
+LIB-9230,Zona Rosa,Novela Gráfica,Tapa Dura,32000.0,3,0.0,Efectivo
+LIB-9231,Centro Histórico,Ciencia Ficción,Edición Ilustrada,72000.0,2,0.1,Tarjeta Débito
+LIB-9232,Zona Rosa,Novela Gráfica,Edición Ilustrada,72000.0,3,0.0,Tarjeta Débito
+LIB-9233,Zona Rosa,Historia y Crítica,Tapa Dura,45000.0,2,0.1,Tarjeta Crédito
+LIB-9234,Centro Histórico,Literatura Clásica,Edición Ilustrada,32000.0,4,0.15,Tarjeta Débito
+LIB-9235,Centro Histórico,Historia y Crítica,Bolsillo,89000.0,2,0.05,Tarjeta Débito
+LIB-9236,Centro Histórico,Literatura Clásica,Tapa Blanda,58000.0,2,0.1,Efectivo
+LIB-9237,Terminal,Literatura Clásica,Bolsillo,72000.0,4,0.0,Transferencia QR
+LIB-9238,Centro Histórico,Literatura Clásica,Edición Ilustrada,72000.0,2,0.15,Efectivo
+LIB-9239,Campus Universitario,Literatura Clásica,Tapa Blanda,58000.0,5,0.0,Tarjeta Débito
+LIB-9240,Zona Rosa,Historia y Crítica,Tapa Dura,45000.0,1,0.0,Tarjeta Crédito
+LIB-9241,Campus Universitario,Ciencia Ficción,Tapa Dura,32000.0,5,0.15,Tarjeta Débito
+LIB-9242,Terminal,Ciencia Ficción,Edición Ilustrada,58000.0,5,0.15,Tarjeta Crédito
+LIB-9243,Galería de Arte,Novela Gráfica,Tapa Dura,,6,0.1,Tarjeta Débito
+LIB-9244,Galería de Arte,Novela Gráfica,Edición Ilustrada,58000.0,1,0.05,Efectivo
+LIB-9245,Terminal,Literatura Clásica,Bolsillo,45000.0,4,0.0,Transferencia QR
+LIB-9246,Campus Universitario,Literatura Clásica,Tapa Blanda,58000.0,6,0.0,Tarjeta Crédito
+LIB-9247,Terminal,Literatura Clásica,Tapa Blanda,32000.0,1,0.0,Tarjeta Crédito
+LIB-9248,Terminal,Historia y Crítica,Tapa Dura,72000.0,1,0.1,Tarjeta Débito
+LIB-9249,Terminal,Literatura Clásica,Tapa Blanda,45000.0,5,0.2,Tarjeta Débito
+LIB-9250,Zona Rosa,Historia y Crítica,Edición Ilustrada,58000.0,5,0.2,Transferencia QR
+LIB-9251,Galería de Arte,Ensayo Científico,Tapa Blanda,32000.0,5,0.05,Transferencia QR
+LIB-9252,Zona Rosa,Literatura Clásica,Tapa Dura,,6,0.1,Tarjeta Crédito
+LIB-9253,Campus Universitario,Historia y Crítica,Bolsillo,32000.0,6,0.15,Tarjeta Débito
+LIB-9254,Centro Histórico,Historia y Crítica,Tapa Dura,58000.0,6,0.15,Tarjeta Crédito
+LIB-9255,Terminal,Ensayo Científico,Bolsillo,45000.0,2,0.0,Tarjeta Crédito
+LIB-9256,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,1,0.1,Tarjeta Débito
+LIB-9257,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,1,0.05,Tarjeta Crédito
+LIB-9258,Campus Universitario,Ciencia Ficción,Edición Ilustrada,89000.0,3,0.0,Tarjeta Crédito
+LIB-9259,Galería de Arte,Ciencia Ficción,Edición Ilustrada,72000.0,3,0.1,Efectivo
+LIB-9260,Zona Rosa,Ciencia Ficción,Bolsillo,58000.0,1,0.0,Transferencia QR
+LIB-9261,Terminal,Literatura Clásica,Edición Ilustrada,45000.0,4,0.0,Tarjeta Crédito
+LIB-9262,Terminal,Literatura Clásica,Tapa Dura,45000.0,1,0.05,Efectivo
+LIB-9263,Centro Histórico,Historia y Crítica,Edición Ilustrada,58000.0,1,0.05,Efectivo
+LIB-9264,Zona Rosa,Historia y Crítica,Tapa Blanda,72000.0,2,0.0,Tarjeta Crédito
+LIB-9265,Terminal,Ensayo Científico,Tapa Blanda,58000.0,1,0.0,Efectivo
+LIB-9266,Campus Universitario,Novela Gráfica,Tapa Dura,58000.0,4,0.05,Tarjeta Crédito
+LIB-9267,Centro Histórico,Novela Gráfica,Tapa Dura,32000.0,6,0.0,Transferencia QR
+LIB-9268,Centro Histórico,Literatura Clásica,Tapa Dura,89000.0,2,0.0,Tarjeta Débito
+LIB-9269,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,4,0.1,Tarjeta Crédito
+LIB-9270,Campus Universitario,Literatura Clásica,Edición Ilustrada,58000.0,5,0.05,Tarjeta Débito
+LIB-9271,Zona Rosa,Historia y Crítica,Tapa Blanda,72000.0,4,,Tarjeta Débito
+LIB-9272,Galería de Arte,Ensayo Científico,Bolsillo,89000.0,4,,Transferencia QR
+LIB-9273,Campus Universitario,Ciencia Ficción,Edición Ilustrada,,4,0.05,Tarjeta Débito
+LIB-9274,Terminal,Historia y Crítica,Edición Ilustrada,89000.0,6,0.0,Efectivo
+LIB-9275,Campus Universitario,Historia y Crítica,Tapa Dura,45000.0,6,0.05,Efectivo
+LIB-9276,Centro Histórico,Ensayo Científico,Tapa Blanda,58000.0,5,0.05,Efectivo
+LIB-9277,Terminal,Novela Gráfica,Bolsillo,58000.0,4,0.0,Tarjeta Débito
+LIB-9278,Galería de Arte,Ciencia Ficción,Tapa Dura,58000.0,3,0.0,Tarjeta Crédito
+LIB-9279,Campus Universitario,Ensayo Científico,Tapa Dura,45000.0,5,0.0,Tarjeta Crédito
+LIB-9280,Campus Universitario,Ciencia Ficción,Tapa Dura,45000.0,4,0.0,Tarjeta Débito
+LIB-9281,Zona Rosa,Novela Gráfica,Tapa Dura,89000.0,3,0.05,Tarjeta Crédito
+LIB-9282,Galería de Arte,Ciencia Ficción,Edición Ilustrada,32000.0,2,0.0,Efectivo
+LIB-9283,Zona Rosa,Literatura Clásica,Edición Ilustrada,45000.0,3,0.0,Tarjeta Débito
+LIB-9284,Centro Histórico,Literatura Clásica,Edición Ilustrada,58000.0,5,0.1,Tarjeta Débito
+LIB-9285,Centro Histórico,Ciencia Ficción,Edición Ilustrada,58000.0,3,0.05,Efectivo
+LIB-9286,Zona Rosa,Ensayo Científico,Tapa Blanda,45000.0,5,0.1,Tarjeta Crédito
+LIB-9287,Terminal,Ciencia Ficción,Edición Ilustrada,45000.0,1,0.0,Tarjeta Débito
+LIB-9288,Zona Rosa,Ciencia Ficción,Tapa Blanda,58000.0,2,0.0,Tarjeta Débito
+LIB-9289,Campus Universitario,Novela Gráfica,Bolsillo,45000.0,6,0.0,Transferencia QR
+LIB-9290,Galería de Arte,Historia y Crítica,Tapa Blanda,72000.0,5,0.1,Tarjeta Crédito
+LIB-9291,Galería de Arte,Ensayo Científico,Tapa Dura,32000.0,2,0.0,Transferencia QR
+LIB-9292,Campus Universitario,Historia y Crítica,Bolsillo,45000.0,3,0.2,Tarjeta Débito
+LIB-9293,Terminal,Historia y Crítica,Bolsillo,72000.0,5,0.05,Transferencia QR
+LIB-9294,Galería de Arte,Ciencia Ficción,Tapa Blanda,45000.0,3,0.0,Tarjeta Débito
+LIB-9295,Galería de Arte,Ensayo Científico,Bolsillo,45000.0,2,0.05,Tarjeta Crédito
+LIB-9296,Zona Rosa,Ensayo Científico,Tapa Dura,45000.0,2,0.05,Tarjeta Débito
+LIB-9297,Galería de Arte,Ensayo Científico,Edición Ilustrada,58000.0,1,0.1,Efectivo
+LIB-9298,Zona Rosa,Historia y Crítica,Bolsillo,45000.0,6,0.0,Transferencia QR
+LIB-9299,Centro Histórico,Ciencia Ficción,Edición Ilustrada,58000.0,6,,Tarjeta Débito
+LIB-9300,Zona Rosa,Historia y Crítica,Edición Ilustrada,,4,0.15,Tarjeta Débito
+LIB-9301,Galería de Arte,Literatura Clásica,Tapa Dura,58000.0,6,0.0,Efectivo
+LIB-9302,Zona Rosa,Historia y Crítica,Bolsillo,45000.0,4,0.05,Transferencia QR
+LIB-9303,Terminal,Historia y Crítica,Bolsillo,45000.0,5,0.05,Tarjeta Débito
+LIB-9304,Campus Universitario,Novela Gráfica,Tapa Dura,45000.0,2,0.05,Tarjeta Crédito
+LIB-9305,Galería de Arte,Literatura Clásica,Bolsillo,45000.0,1,0.0,Efectivo
+LIB-9306,Galería de Arte,Literatura Clásica,Tapa Dura,58000.0,2,0.05,Tarjeta Débito
+LIB-9307,Zona Rosa,Literatura Clásica,Tapa Blanda,58000.0,5,0.1,Efectivo
+LIB-9308,Centro Histórico,Historia y Crítica,Edición Ilustrada,45000.0,6,0.1,Efectivo
+LIB-9309,Campus Universitario,Ensayo Científico,Tapa Blanda,,5,,Efectivo
+LIB-9310,Terminal,Novela Gráfica,Tapa Dura,72000.0,6,0.1,Efectivo
+LIB-9311,Campus Universitario,Historia y Crítica,Tapa Dura,58000.0,1,0.1,Tarjeta Débito
+LIB-9312,Centro Histórico,Literatura Clásica,Tapa Blanda,,4,0.0,Transferencia QR
+LIB-9313,Terminal,Novela Gráfica,Tapa Dura,72000.0,2,0.0,Transferencia QR
+LIB-9314,Campus Universitario,Novela Gráfica,Tapa Blanda,58000.0,1,0.15,Tarjeta Crédito
+LIB-9315,Centro Histórico,Ensayo Científico,Bolsillo,32000.0,5,,Tarjeta Crédito
+LIB-9316,Campus Universitario,Literatura Clásica,Edición Ilustrada,45000.0,2,0.0,Tarjeta Débito
+LIB-9317,Galería de Arte,Novela Gráfica,Tapa Blanda,58000.0,3,0.0,Efectivo
+LIB-9318,Galería de Arte,Novela Gráfica,Bolsillo,32000.0,6,0.0,Transferencia QR
+LIB-9319,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,4,,Tarjeta Débito
+LIB-9320,Centro Histórico,Novela Gráfica,Tapa Blanda,58000.0,3,0.0,Tarjeta Débito
+LIB-9321,Zona Rosa,Literatura Clásica,Bolsillo,,4,0.0,Transferencia QR
+LIB-9322,Centro Histórico,Ciencia Ficción,Tapa Blanda,58000.0,1,0.0,Efectivo
+LIB-9323,Terminal,Ensayo Científico,Edición Ilustrada,58000.0,5,0.05,Tarjeta Débito
+LIB-9324,Galería de Arte,Historia y Crítica,Bolsillo,45000.0,2,0.0,Transferencia QR
+LIB-9325,Galería de Arte,Novela Gráfica,Tapa Blanda,45000.0,6,0.0,Tarjeta Crédito
+LIB-9326,Terminal,Ciencia Ficción,Bolsillo,58000.0,1,0.15,Tarjeta Débito
+LIB-9327,Campus Universitario,Historia y Crítica,Bolsillo,,6,0.0,Efectivo
+LIB-9328,Galería de Arte,Ciencia Ficción,Edición Ilustrada,58000.0,5,0.05,Tarjeta Crédito
+LIB-9329,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,6,0.0,Tarjeta Débito
+LIB-9330,Zona Rosa,Literatura Clásica,Edición Ilustrada,32000.0,2,0.0,Tarjeta Crédito
+LIB-9331,Campus Universitario,Ciencia Ficción,Bolsillo,72000.0,2,0.0,Tarjeta Crédito
+LIB-9332,Centro Histórico,Literatura Clásica,Bolsillo,,1,0.15,Tarjeta Débito
+LIB-9333,Zona Rosa,Ciencia Ficción,Tapa Blanda,89000.0,4,0.05,Efectivo
+LIB-9334,Zona Rosa,Historia y Crítica,Edición Ilustrada,32000.0,2,0.0,Tarjeta Débito
+LIB-9335,Terminal,Literatura Clásica,Tapa Blanda,72000.0,3,0.0,Transferencia QR
+LIB-9336,Centro Histórico,Ensayo Científico,Bolsillo,58000.0,6,0.05,Efectivo
+LIB-9337,Centro Histórico,Historia y Crítica,Tapa Dura,89000.0,5,0.1,Tarjeta Crédito
+LIB-9338,Zona Rosa,Historia y Crítica,Bolsillo,,2,0.0,Tarjeta Crédito
+LIB-9339,Terminal,Ensayo Científico,Tapa Dura,,1,0.15,Tarjeta Crédito
+LIB-9340,Campus Universitario,Ensayo Científico,Bolsillo,32000.0,3,0.05,Efectivo
+LIB-9341,Campus Universitario,Ciencia Ficción,Tapa Dura,89000.0,1,0.0,Tarjeta Crédito
+LIB-9342,Centro Histórico,Literatura Clásica,Tapa Blanda,115000.0,4,0.0,Transferencia QR
+LIB-9343,Zona Rosa,Ensayo Científico,Edición Ilustrada,115000.0,1,0.0,Tarjeta Crédito
+LIB-9344,Terminal,Novela Gráfica,Tapa Dura,72000.0,4,0.0,Tarjeta Crédito
+LIB-9345,Campus Universitario,Ensayo Científico,Tapa Dura,115000.0,2,0.05,Tarjeta Débito
+LIB-9346,Terminal,Ciencia Ficción,Tapa Dura,89000.0,4,0.15,Transferencia QR
+LIB-9347,Terminal,Ensayo Científico,Edición Ilustrada,45000.0,3,0.0,Tarjeta Crédito
+LIB-9348,Centro Histórico,Novela Gráfica,Edición Ilustrada,89000.0,5,0.2,Tarjeta Crédito
+LIB-9349,Terminal,Literatura Clásica,Edición Ilustrada,32000.0,3,0.0,Transferencia QR
+LIB-9350,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,3,0.2,Transferencia QR
+LIB-9351,Campus Universitario,Ciencia Ficción,Bolsillo,72000.0,1,0.05,Efectivo
+LIB-9352,Zona Rosa,Historia y Crítica,Tapa Dura,32000.0,3,0.2,Tarjeta Crédito
+LIB-9353,Galería de Arte,Literatura Clásica,Tapa Dura,58000.0,2,0.0,Efectivo
+LIB-9354,Galería de Arte,Ciencia Ficción,Edición Ilustrada,72000.0,6,0.0,Tarjeta Crédito
+LIB-9355,Galería de Arte,Historia y Crítica,Tapa Blanda,45000.0,3,0.0,Tarjeta Crédito
+LIB-9356,Centro Histórico,Literatura Clásica,Edición Ilustrada,32000.0,3,0.2,Tarjeta Crédito
+LIB-9357,Galería de Arte,Ciencia Ficción,Tapa Dura,58000.0,4,0.0,Tarjeta Débito
+LIB-9358,Campus Universitario,Literatura Clásica,Edición Ilustrada,45000.0,6,0.1,Tarjeta Débito
+LIB-9359,Campus Universitario,Ciencia Ficción,Bolsillo,32000.0,4,0.0,Tarjeta Débito
+LIB-9360,Centro Histórico,Historia y Crítica,Bolsillo,89000.0,6,0.0,Transferencia QR
+LIB-9361,Zona Rosa,Novela Gráfica,Edición Ilustrada,32000.0,4,0.05,Transferencia QR
+LIB-9362,Zona Rosa,Ensayo Científico,Edición Ilustrada,45000.0,6,,Efectivo
+LIB-9363,Terminal,Literatura Clásica,Tapa Blanda,45000.0,5,0.05,Tarjeta Débito
+LIB-9364,Campus Universitario,Ciencia Ficción,Bolsillo,45000.0,4,0.1,Transferencia QR
+LIB-9365,Terminal,Historia y Crítica,Tapa Blanda,45000.0,3,0.1,Transferencia QR
+LIB-9366,Terminal,Literatura Clásica,Edición Ilustrada,89000.0,2,0.0,Tarjeta Débito
+LIB-9367,Zona Rosa,Literatura Clásica,Bolsillo,89000.0,4,0.0,Efectivo
+LIB-9368,Zona Rosa,Novela Gráfica,Tapa Dura,32000.0,5,0.15,Transferencia QR
+LIB-9369,Galería de Arte,Ciencia Ficción,Edición Ilustrada,,6,0.15,Transferencia QR
+LIB-9370,Zona Rosa,Ciencia Ficción,Tapa Blanda,32000.0,5,0.1,Tarjeta Crédito
+LIB-9371,Galería de Arte,Novela Gráfica,Tapa Blanda,45000.0,6,0.1,Tarjeta Crédito
+LIB-9372,Zona Rosa,Literatura Clásica,Tapa Blanda,45000.0,5,,Tarjeta Crédito
+LIB-9373,Terminal,Historia y Crítica,Edición Ilustrada,45000.0,1,0.1,Tarjeta Débito
+LIB-9374,Centro Histórico,Historia y Crítica,Tapa Dura,45000.0,1,0.05,Tarjeta Crédito
+LIB-9375,Galería de Arte,Ciencia Ficción,Edición Ilustrada,32000.0,6,0.0,Tarjeta Débito
+LIB-9376,Campus Universitario,Ciencia Ficción,Tapa Blanda,32000.0,5,,Tarjeta Débito
+LIB-9377,Centro Histórico,Ciencia Ficción,Edición Ilustrada,45000.0,5,0.1,Transferencia QR
+LIB-9378,Centro Histórico,Ciencia Ficción,Tapa Dura,45000.0,3,,Efectivo
+LIB-9379,Campus Universitario,Historia y Crítica,Tapa Dura,,5,0.1,Tarjeta Crédito
+LIB-9380,Galería de Arte,Literatura Clásica,Tapa Blanda,45000.0,5,,Transferencia QR
+LIB-9381,Zona Rosa,Historia y Crítica,Edición Ilustrada,45000.0,3,0.2,Tarjeta Crédito
+LIB-9382,Zona Rosa,Ensayo Científico,Tapa Blanda,32000.0,6,0.0,Transferencia QR
+LIB-9383,Galería de Arte,Historia y Crítica,Bolsillo,89000.0,1,0.0,Tarjeta Crédito
+LIB-9384,Centro Histórico,Novela Gráfica,Tapa Blanda,58000.0,3,0.0,Tarjeta Crédito
+LIB-9385,Zona Rosa,Historia y Crítica,Tapa Dura,32000.0,1,0.0,Tarjeta Débito
+LIB-9386,Centro Histórico,Novela Gráfica,Tapa Dura,58000.0,2,,Tarjeta Crédito
+LIB-9387,Campus Universitario,Ciencia Ficción,Tapa Blanda,58000.0,2,0.05,Transferencia QR
+LIB-9388,Galería de Arte,Historia y Crítica,Edición Ilustrada,45000.0,3,0.0,Tarjeta Crédito
+LIB-9389,Galería de Arte,Ensayo Científico,Bolsillo,45000.0,6,0.0,Efectivo
+LIB-9390,Galería de Arte,Ensayo Científico,Bolsillo,72000.0,4,0.0,Tarjeta Crédito
+LIB-9391,Galería de Arte,Historia y Crítica,Bolsillo,,6,0.2,Transferencia QR
+LIB-9392,Terminal,Historia y Crítica,Tapa Dura,32000.0,5,0.15,Transferencia QR
+LIB-9393,Zona Rosa,Novela Gráfica,Bolsillo,89000.0,5,0.0,Tarjeta Débito
+LIB-9394,Galería de Arte,Ensayo Científico,Tapa Dura,72000.0,1,0.0,Transferencia QR
+LIB-9395,Zona Rosa,Ciencia Ficción,Bolsillo,72000.0,2,0.0,Tarjeta Débito
+LIB-9396,Campus Universitario,Literatura Clásica,Tapa Dura,89000.0,2,0.0,Transferencia QR
+LIB-9397,Galería de Arte,Novela Gráfica,Bolsillo,89000.0,5,0.05,Tarjeta Débito
+LIB-9398,Terminal,Ciencia Ficción,Edición Ilustrada,45000.0,2,,Tarjeta Débito
+LIB-9399,Zona Rosa,Ensayo Científico,Bolsillo,45000.0,6,,Tarjeta Débito
+LIB-9400,Galería de Arte,Historia y Crítica,Edición Ilustrada,45000.0,5,0.05,Tarjeta Crédito
+LIB-9401,Centro Histórico,Ciencia Ficción,Edición Ilustrada,45000.0,1,0.15,Efectivo
+LIB-9402,Galería de Arte,Ciencia Ficción,Bolsillo,72000.0,3,0.0,Tarjeta Débito
+LIB-9403,Terminal,Historia y Crítica,Tapa Dura,45000.0,1,0.0,Tarjeta Débito
+LIB-9404,Centro Histórico,Novela Gráfica,Tapa Dura,45000.0,4,0.0,Tarjeta Débito
+LIB-9405,Galería de Arte,Ciencia Ficción,Edición Ilustrada,72000.0,3,0.05,Efectivo
+LIB-9406,Zona Rosa,Literatura Clásica,Tapa Dura,32000.0,1,0.15,Tarjeta Débito
+LIB-9407,Centro Histórico,Novela Gráfica,Tapa Blanda,89000.0,6,0.0,Tarjeta Crédito
+LIB-9408,Campus Universitario,Ensayo Científico,Bolsillo,72000.0,5,0.1,Efectivo
+LIB-9409,Zona Rosa,Historia y Crítica,Tapa Dura,58000.0,6,0.05,Tarjeta Crédito
+LIB-9410,Campus Universitario,Novela Gráfica,Edición Ilustrada,45000.0,5,0.1,Tarjeta Crédito
+LIB-9411,Centro Histórico,Ensayo Científico,Edición Ilustrada,89000.0,1,0.1,Efectivo
+LIB-9412,Galería de Arte,Novela Gráfica,Bolsillo,72000.0,3,0.05,Tarjeta Débito
+LIB-9413,Galería de Arte,Historia y Crítica,Edición Ilustrada,58000.0,6,0.1,Tarjeta Crédito
+LIB-9414,Centro Histórico,Novela Gráfica,Edición Ilustrada,58000.0,3,0.0,Transferencia QR
+LIB-9415,Galería de Arte,Historia y Crítica,Edición Ilustrada,89000.0,5,0.1,Transferencia QR
+LIB-9416,Zona Rosa,Novela Gráfica,Tapa Blanda,45000.0,2,0.0,Tarjeta Crédito
+LIB-9417,Campus Universitario,Novela Gráfica,Tapa Dura,58000.0,1,0.0,Efectivo
+LIB-9418,Zona Rosa,Historia y Crítica,Tapa Blanda,89000.0,6,0.05,Efectivo
+LIB-9419,Terminal,Literatura Clásica,Tapa Dura,89000.0,6,,Transferencia QR
+LIB-9420,Galería de Arte,Ciencia Ficción,Tapa Dura,89000.0,6,0.2,Transferencia QR
+LIB-9421,Galería de Arte,Ensayo Científico,Tapa Blanda,,1,0.0,Tarjeta Débito
+LIB-9422,Zona Rosa,Novela Gráfica,Tapa Dura,45000.0,1,0.15,Tarjeta Débito
+LIB-9423,Terminal,Novela Gráfica,Edición Ilustrada,32000.0,1,0.05,Tarjeta Crédito
+LIB-9424,Centro Histórico,Literatura Clásica,Edición Ilustrada,89000.0,6,0.0,Efectivo
+LIB-9425,Terminal,Historia y Crítica,Tapa Dura,72000.0,1,0.05,Transferencia QR
+LIB-9426,Terminal,Ensayo Científico,Edición Ilustrada,45000.0,5,0.1,Tarjeta Débito
+LIB-9427,Zona Rosa,Ciencia Ficción,Tapa Blanda,72000.0,6,0.2,Transferencia QR
+LIB-9428,Campus Universitario,Ensayo Científico,Tapa Blanda,58000.0,4,0.0,Transferencia QR
+LIB-9429,Terminal,Historia y Crítica,Bolsillo,72000.0,3,,Tarjeta Débito
+LIB-9430,Zona Rosa,Ciencia Ficción,Tapa Dura,72000.0,3,0.2,Tarjeta Crédito
+LIB-9431,Campus Universitario,Ciencia Ficción,Tapa Blanda,32000.0,3,0.05,Efectivo
+LIB-9432,Terminal,Ciencia Ficción,Tapa Blanda,89000.0,5,0.15,Transferencia QR
+LIB-9433,Zona Rosa,Ciencia Ficción,Bolsillo,45000.0,2,,Tarjeta Débito
+LIB-9434,Terminal,Ensayo Científico,Edición Ilustrada,45000.0,6,0.0,Tarjeta Débito
+LIB-9435,Campus Universitario,Novela Gráfica,Bolsillo,58000.0,2,0.0,Efectivo
+LIB-9436,Terminal,Ensayo Científico,Tapa Blanda,32000.0,6,0.0,Tarjeta Débito
+LIB-9437,Campus Universitario,Historia y Crítica,Bolsillo,89000.0,6,0.2,Tarjeta Débito
+LIB-9438,Campus Universitario,Ensayo Científico,Tapa Blanda,89000.0,1,0.1,Tarjeta Crédito
+LIB-9439,Zona Rosa,Ensayo Científico,Tapa Blanda,72000.0,5,0.1,Efectivo
+LIB-9440,Zona Rosa,Ciencia Ficción,Tapa Dura,58000.0,4,0.1,Tarjeta Débito
+LIB-9441,Zona Rosa,Novela Gráfica,Tapa Dura,32000.0,1,0.15,Tarjeta Débito
+LIB-9442,Centro Histórico,Ensayo Científico,Tapa Dura,72000.0,6,0.05,Tarjeta Débito
+LIB-9443,Terminal,Ciencia Ficción,Bolsillo,45000.0,2,0.1,Tarjeta Crédito
+LIB-9444,Campus Universitario,Novela Gráfica,Edición Ilustrada,72000.0,2,0.1,Tarjeta Débito
+LIB-9445,Terminal,Historia y Crítica,Edición Ilustrada,45000.0,6,,Tarjeta Débito
+LIB-9446,Zona Rosa,Ciencia Ficción,Edición Ilustrada,58000.0,1,0.1,Transferencia QR
+LIB-9447,Centro Histórico,Novela Gráfica,Tapa Dura,32000.0,3,,Tarjeta Crédito
+LIB-9448,Campus Universitario,Literatura Clásica,Tapa Dura,115000.0,6,0.0,Tarjeta Crédito
+LIB-9449,Zona Rosa,Literatura Clásica,Tapa Dura,32000.0,4,0.0,Tarjeta Débito
+LIB-9450,Terminal,Ciencia Ficción,Tapa Blanda,45000.0,4,0.05,Tarjeta Crédito
+LIB-9451,Zona Rosa,Novela Gráfica,Bolsillo,45000.0,6,0.1,Tarjeta Crédito
+LIB-9452,Terminal,Ciencia Ficción,Tapa Dura,45000.0,1,0.05,Transferencia QR
+LIB-9453,Centro Histórico,Novela Gráfica,Bolsillo,72000.0,2,0.15,Tarjeta Crédito
+LIB-9454,Terminal,Historia y Crítica,Tapa Blanda,72000.0,4,0.05,Tarjeta Crédito
+LIB-9455,Terminal,Ciencia Ficción,Edición Ilustrada,45000.0,4,0.15,Tarjeta Débito
+LIB-9456,Campus Universitario,Novela Gráfica,Tapa Dura,58000.0,4,0.0,Tarjeta Crédito
+LIB-9457,Terminal,Literatura Clásica,Tapa Dura,115000.0,4,,Transferencia QR
+LIB-9458,Centro Histórico,Ensayo Científico,Bolsillo,32000.0,6,0.1,Tarjeta Débito
+LIB-9459,Terminal,Ciencia Ficción,Tapa Blanda,45000.0,3,0.05,Tarjeta Crédito
+LIB-9460,Galería de Arte,Ensayo Científico,Edición Ilustrada,58000.0,3,0.0,Tarjeta Débito
+LIB-9461,Terminal,Ensayo Científico,Bolsillo,72000.0,6,0.2,Tarjeta Débito
+LIB-9462,Terminal,Ciencia Ficción,Tapa Blanda,45000.0,1,0.15,Transferencia QR
+LIB-9463,Zona Rosa,Ciencia Ficción,Tapa Blanda,58000.0,3,0.0,Efectivo
+LIB-9464,Galería de Arte,Ciencia Ficción,Tapa Dura,,5,0.2,Tarjeta Débito
+LIB-9465,Zona Rosa,Ciencia Ficción,Bolsillo,45000.0,4,0.0,Tarjeta Crédito
+LIB-9466,Campus Universitario,Literatura Clásica,Bolsillo,58000.0,4,0.1,Tarjeta Crédito
+LIB-9467,Campus Universitario,Ensayo Científico,Tapa Blanda,72000.0,5,0.0,Tarjeta Crédito
+LIB-9468,Galería de Arte,Historia y Crítica,Bolsillo,72000.0,2,0.0,Tarjeta Débito
+LIB-9469,Campus Universitario,Ciencia Ficción,Edición Ilustrada,,1,0.0,Efectivo
+LIB-9470,Galería de Arte,Ensayo Científico,Tapa Blanda,32000.0,3,0.1,Tarjeta Crédito
+LIB-9471,Campus Universitario,Ciencia Ficción,Tapa Dura,89000.0,4,0.0,Efectivo
+LIB-9472,Galería de Arte,Literatura Clásica,Tapa Blanda,45000.0,1,0.05,Transferencia QR
+LIB-9473,Centro Histórico,Literatura Clásica,Edición Ilustrada,58000.0,1,0.1,Tarjeta Crédito
+LIB-9474,Galería de Arte,Literatura Clásica,Tapa Blanda,45000.0,3,0.0,Tarjeta Débito
+LIB-9475,Galería de Arte,Historia y Crítica,Tapa Dura,45000.0,4,0.05,Efectivo
+LIB-9476,Terminal,Ciencia Ficción,Tapa Blanda,45000.0,4,0.0,Tarjeta Crédito
+LIB-9477,Centro Histórico,Ensayo Científico,Bolsillo,45000.0,2,0.0,Transferencia QR
+LIB-9478,Terminal,Historia y Crítica,Tapa Blanda,45000.0,2,0.0,Tarjeta Crédito
+LIB-9479,Campus Universitario,Ensayo Científico,Edición Ilustrada,72000.0,2,0.0,Tarjeta Débito
+LIB-9480,Zona Rosa,Ciencia Ficción,Tapa Dura,58000.0,1,0.05,Tarjeta Débito
+LIB-9481,Galería de Arte,Ensayo Científico,Edición Ilustrada,32000.0,6,0.0,Tarjeta Débito
+LIB-9482,Galería de Arte,Ciencia Ficción,Edición Ilustrada,72000.0,1,,Tarjeta Crédito
+LIB-9483,Campus Universitario,Ensayo Científico,Edición Ilustrada,89000.0,2,0.0,Tarjeta Débito
+LIB-9484,Zona Rosa,Ciencia Ficción,Tapa Blanda,45000.0,3,0.05,Tarjeta Crédito
+LIB-9485,Campus Universitario,Ciencia Ficción,Edición Ilustrada,89000.0,1,0.0,Transferencia QR
+LIB-9486,Terminal,Historia y Crítica,Tapa Blanda,89000.0,6,0.05,Transferencia QR
+LIB-9487,Galería de Arte,Ciencia Ficción,Tapa Blanda,,6,0.0,Tarjeta Crédito
+LIB-9488,Zona Rosa,Literatura Clásica,Tapa Blanda,58000.0,4,0.0,Transferencia QR
+LIB-9489,Zona Rosa,Historia y Crítica,Bolsillo,58000.0,4,0.0,Tarjeta Débito
+LIB-9490,Galería de Arte,Historia y Crítica,Bolsillo,72000.0,2,0.05,Tarjeta Crédito
+LIB-9491,Terminal,Literatura Clásica,Edición Ilustrada,89000.0,2,0.15,Tarjeta Crédito
+LIB-9492,Terminal,Ensayo Científico,Tapa Dura,89000.0,6,0.15,Efectivo
+LIB-9493,Zona Rosa,Novela Gráfica,Bolsillo,32000.0,6,0.0,Tarjeta Crédito
+LIB-9494,Centro Histórico,Historia y Crítica,Tapa Dura,89000.0,6,0.1,Tarjeta Crédito
+LIB-9495,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,6,0.05,Tarjeta Crédito
+LIB-9496,Centro Histórico,Ensayo Científico,Edición Ilustrada,32000.0,4,,Efectivo
+LIB-9497,Galería de Arte,Ciencia Ficción,Bolsillo,58000.0,2,0.05,Tarjeta Débito
+LIB-9498,Campus Universitario,Ciencia Ficción,Edición Ilustrada,58000.0,2,,Tarjeta Débito
+LIB-9499,Galería de Arte,Ciencia Ficción,Tapa Blanda,58000.0,1,0.0,Tarjeta Débito
+LIB-9500,Centro Histórico,Historia y Crítica,Edición Ilustrada,58000.0,1,,Transferencia QR
+LIB-9501,Zona Rosa,Ciencia Ficción,Tapa Blanda,45000.0,6,0.0,Tarjeta Crédito
+LIB-9502,Campus Universitario,Literatura Clásica,Tapa Dura,72000.0,2,0.05,Tarjeta Débito
+LIB-9503,Centro Histórico,Ensayo Científico,Bolsillo,58000.0,6,0.2,Tarjeta Crédito
+LIB-9504,Centro Histórico,Ensayo Científico,Tapa Blanda,32000.0,2,0.1,Tarjeta Débito
+LIB-9505,Galería de Arte,Ensayo Científico,Edición Ilustrada,72000.0,1,0.1,Tarjeta Crédito
+LIB-9506,Campus Universitario,Ensayo Científico,Tapa Blanda,32000.0,6,0.0,Tarjeta Crédito
+LIB-9507,Centro Histórico,Historia y Crítica,Tapa Dura,45000.0,1,0.1,Transferencia QR
+LIB-9508,Centro Histórico,Literatura Clásica,Edición Ilustrada,89000.0,1,0.0,Tarjeta Crédito
+LIB-9509,Campus Universitario,Historia y Crítica,Edición Ilustrada,32000.0,6,,Transferencia QR
+LIB-9510,Zona Rosa,Ensayo Científico,Bolsillo,32000.0,2,,Tarjeta Débito
+LIB-9511,Galería de Arte,Literatura Clásica,Edición Ilustrada,45000.0,5,0.0,Tarjeta Débito
+LIB-9512,Campus Universitario,Novela Gráfica,Tapa Dura,32000.0,4,0.0,Tarjeta Crédito
+LIB-9513,Zona Rosa,Ciencia Ficción,Bolsillo,89000.0,6,0.0,Tarjeta Crédito
+LIB-9514,Terminal,Literatura Clásica,Bolsillo,45000.0,2,0.0,Tarjeta Débito
+LIB-9515,Campus Universitario,Ciencia Ficción,Tapa Blanda,58000.0,6,0.1,Tarjeta Débito
+LIB-9516,Terminal,Ciencia Ficción,Tapa Dura,,1,,Tarjeta Crédito
+LIB-9517,Galería de Arte,Historia y Crítica,Edición Ilustrada,58000.0,6,0.1,Tarjeta Crédito
+LIB-9518,Zona Rosa,Novela Gráfica,Bolsillo,115000.0,1,,Transferencia QR
+LIB-9519,Centro Histórico,Novela Gráfica,Tapa Dura,45000.0,6,0.0,Tarjeta Crédito
+LIB-9520,Zona Rosa,Novela Gráfica,Tapa Blanda,58000.0,1,0.05,Transferencia QR
+LIB-9521,Galería de Arte,Literatura Clásica,Tapa Blanda,72000.0,2,,Tarjeta Crédito
+LIB-9522,Zona Rosa,Novela Gráfica,Tapa Dura,32000.0,2,0.05,Efectivo
+LIB-9523,Terminal,Literatura Clásica,Tapa Dura,58000.0,1,,Transferencia QR
+LIB-9524,Campus Universitario,Ensayo Científico,Tapa Dura,32000.0,1,,Tarjeta Crédito
+LIB-9525,Terminal,Novela Gráfica,Tapa Blanda,89000.0,1,0.05,Tarjeta Débito
+LIB-9526,Centro Histórico,Novela Gráfica,Bolsillo,58000.0,1,0.1,Tarjeta Crédito
+LIB-9527,Centro Histórico,Historia y Crítica,Tapa Blanda,45000.0,2,0.0,Efectivo
+LIB-9528,Centro Histórico,Ciencia Ficción,Tapa Dura,58000.0,4,0.0,Transferencia QR
+LIB-9529,Campus Universitario,Historia y Crítica,Tapa Blanda,,4,0.05,Transferencia QR
+LIB-9530,Zona Rosa,Literatura Clásica,Tapa Dura,45000.0,4,0.15,Tarjeta Crédito
+LIB-9531,Terminal,Ensayo Científico,Edición Ilustrada,,1,0.05,Efectivo
+LIB-9532,Terminal,Literatura Clásica,Tapa Dura,72000.0,1,0.0,Tarjeta Crédito
+LIB-9533,Centro Histórico,Novela Gráfica,Edición Ilustrada,89000.0,4,0.0,Tarjeta Crédito
+LIB-9534,Centro Histórico,Ensayo Científico,Tapa Blanda,45000.0,3,0.1,Tarjeta Débito
+LIB-9535,Campus Universitario,Ensayo Científico,Bolsillo,45000.0,4,0.0,Tarjeta Débito
+LIB-9536,Centro Histórico,Novela Gráfica,Tapa Blanda,45000.0,1,0.05,Tarjeta Débito
+LIB-9537,Campus Universitario,Novela Gráfica,Edición Ilustrada,58000.0,3,0.0,Tarjeta Crédito
+LIB-9538,Zona Rosa,Literatura Clásica,Tapa Dura,58000.0,4,0.0,Tarjeta Crédito
+LIB-9539,Terminal,Ciencia Ficción,Bolsillo,58000.0,6,0.15,Tarjeta Crédito
+LIB-9540,Galería de Arte,Novela Gráfica,Tapa Blanda,32000.0,1,0.0,Efectivo
+LIB-9541,Zona Rosa,Novela Gráfica,Tapa Dura,32000.0,6,0.0,Transferencia QR
+LIB-9542,Centro Histórico,Historia y Crítica,Bolsillo,45000.0,6,0.15,Tarjeta Débito
+LIB-9543,Terminal,Literatura Clásica,Tapa Blanda,89000.0,5,0.05,Tarjeta Crédito
+LIB-9544,Galería de Arte,Literatura Clásica,Tapa Dura,72000.0,4,0.2,Transferencia QR
+LIB-9545,Zona Rosa,Literatura Clásica,Edición Ilustrada,45000.0,5,0.0,Tarjeta Crédito
+LIB-9546,Galería de Arte,Historia y Crítica,Edición Ilustrada,45000.0,1,0.0,Tarjeta Débito
+LIB-9547,Zona Rosa,Ensayo Científico,Tapa Dura,45000.0,5,0.0,Efectivo
+LIB-9548,Centro Histórico,Ciencia Ficción,Edición Ilustrada,72000.0,1,0.05,Tarjeta Crédito
+LIB-9549,Galería de Arte,Novela Gráfica,Tapa Blanda,32000.0,4,0.1,Transferencia QR
+LIB-9550,Zona Rosa,Ciencia Ficción,Tapa Blanda,,2,0.15,Tarjeta Crédito
+LIB-9551,Galería de Arte,Literatura Clásica,Tapa Blanda,58000.0,4,,Tarjeta Débito
+LIB-9552,Terminal,Novela Gráfica,Edición Ilustrada,45000.0,4,0.15,Tarjeta Débito
+LIB-9553,Zona Rosa,Novela Gráfica,Tapa Dura,32000.0,5,0.0,Transferencia QR
+LIB-9554,Zona Rosa,Ensayo Científico,Tapa Dura,45000.0,5,,Tarjeta Crédito
+LIB-9555,Zona Rosa,Novela Gráfica,Bolsillo,45000.0,3,0.05,Transferencia QR
+LIB-9556,Terminal,Novela Gráfica,Tapa Dura,58000.0,1,0.2,Transferencia QR
+LIB-9557,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,6,0.1,Tarjeta Débito
+LIB-9558,Terminal,Novela Gráfica,Tapa Blanda,45000.0,1,0.05,Tarjeta Crédito
+LIB-9559,Galería de Arte,Literatura Clásica,Tapa Dura,32000.0,1,0.05,Efectivo
+LIB-9560,Campus Universitario,Historia y Crítica,Tapa Blanda,89000.0,5,0.0,Transferencia QR
+LIB-9561,Zona Rosa,Literatura Clásica,Tapa Dura,32000.0,5,0.1,Transferencia QR
+LIB-9562,Campus Universitario,Ensayo Científico,Tapa Blanda,58000.0,4,0.0,Transferencia QR
+LIB-9563,Zona Rosa,Ciencia Ficción,Tapa Blanda,89000.0,6,0.05,Tarjeta Crédito
+LIB-9564,Campus Universitario,Ciencia Ficción,Tapa Blanda,32000.0,3,0.05,Transferencia QR
+LIB-9565,Terminal,Ensayo Científico,Bolsillo,58000.0,6,0.1,Transferencia QR
+LIB-9566,Campus Universitario,Historia y Crítica,Tapa Dura,72000.0,4,0.05,Tarjeta Crédito
+LIB-9567,Campus Universitario,Literatura Clásica,Tapa Blanda,32000.0,2,0.1,Transferencia QR
+LIB-9568,Zona Rosa,Ciencia Ficción,Bolsillo,58000.0,4,0.0,Transferencia QR
+LIB-9569,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,5,0.1,Tarjeta Débito
+LIB-9570,Terminal,Ciencia Ficción,Edición Ilustrada,58000.0,2,0.05,Tarjeta Débito
+LIB-9571,Centro Histórico,Literatura Clásica,Bolsillo,58000.0,5,0.0,Transferencia QR
+LIB-9572,Zona Rosa,Ciencia Ficción,Bolsillo,32000.0,3,0.1,Tarjeta Crédito
+LIB-9573,Zona Rosa,Literatura Clásica,Tapa Dura,89000.0,2,0.0,Efectivo
+LIB-9574,Terminal,Ciencia Ficción,Tapa Dura,89000.0,3,0.05,Tarjeta Débito
+LIB-9575,Galería de Arte,Literatura Clásica,Tapa Dura,72000.0,6,0.05,Tarjeta Débito
+LIB-9576,Centro Histórico,Ensayo Científico,Tapa Dura,45000.0,6,0.0,Tarjeta Débito
+LIB-9577,Campus Universitario,Historia y Crítica,Edición Ilustrada,89000.0,5,0.05,Tarjeta Débito
+LIB-9578,Centro Histórico,Historia y Crítica,Tapa Blanda,45000.0,2,0.1,Tarjeta Crédito
+LIB-9579,Campus Universitario,Ensayo Científico,Bolsillo,32000.0,2,0.0,Tarjeta Débito
+LIB-9580,Galería de Arte,Ensayo Científico,Bolsillo,32000.0,4,0.0,Tarjeta Crédito
+LIB-9581,Zona Rosa,Ensayo Científico,Tapa Blanda,72000.0,3,0.15,Transferencia QR
+LIB-9582,Galería de Arte,Literatura Clásica,Edición Ilustrada,45000.0,5,0.0,Tarjeta Débito
+LIB-9583,Campus Universitario,Novela Gráfica,Edición Ilustrada,58000.0,5,0.05,Efectivo
+LIB-9584,Centro Histórico,Novela Gráfica,Tapa Dura,,6,0.0,Transferencia QR
+LIB-9585,Terminal,Novela Gráfica,Tapa Dura,45000.0,6,,Efectivo
+LIB-9586,Galería de Arte,Literatura Clásica,Bolsillo,32000.0,3,0.0,Tarjeta Crédito
+LIB-9587,Galería de Arte,Ensayo Científico,Edición Ilustrada,45000.0,1,,Tarjeta Crédito
+LIB-9588,Campus Universitario,Ciencia Ficción,Bolsillo,72000.0,4,0.15,Tarjeta Débito
+LIB-9589,Campus Universitario,Historia y Crítica,Tapa Blanda,89000.0,6,0.0,Tarjeta Débito
+LIB-9590,Galería de Arte,Ciencia Ficción,Bolsillo,45000.0,1,0.2,Tarjeta Débito
+LIB-9591,Terminal,Ciencia Ficción,Tapa Blanda,58000.0,4,0.0,Transferencia QR
+LIB-9592,Terminal,Novela Gráfica,Bolsillo,45000.0,1,,Tarjeta Crédito
+LIB-9593,Terminal,Ciencia Ficción,Tapa Blanda,58000.0,6,0.0,Transferencia QR
+LIB-9594,Campus Universitario,Ensayo Científico,Bolsillo,72000.0,3,0.15,Tarjeta Débito
+LIB-9595,Campus Universitario,Ensayo Científico,Edición Ilustrada,58000.0,3,0.05,Tarjeta Débito
+LIB-9596,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,2,0.0,Tarjeta Débito
+LIB-9597,Campus Universitario,Ensayo Científico,Edición Ilustrada,58000.0,4,0.1,Efectivo
+LIB-9598,Centro Histórico,Ensayo Científico,Tapa Dura,45000.0,4,0.05,Tarjeta Débito
+LIB-9599,Zona Rosa,Novela Gráfica,Edición Ilustrada,,2,0.05,Tarjeta Débito
+LIB-9600,Galería de Arte,Literatura Clásica,Tapa Blanda,115000.0,5,0.0,Tarjeta Débito
+LIB-9601,Campus Universitario,Ensayo Científico,Bolsillo,45000.0,3,,Tarjeta Débito
+LIB-9602,Campus Universitario,Novela Gráfica,Tapa Dura,45000.0,6,0.1,Transferencia QR
+LIB-9603,Galería de Arte,Literatura Clásica,Bolsillo,89000.0,4,0.0,Efectivo
+LIB-9604,Galería de Arte,Literatura Clásica,Bolsillo,58000.0,4,0.2,Transferencia QR
+LIB-9605,Zona Rosa,Ciencia Ficción,Edición Ilustrada,45000.0,2,0.0,Transferencia QR
+LIB-9606,Zona Rosa,Ciencia Ficción,Tapa Blanda,45000.0,5,0.0,Tarjeta Crédito
+LIB-9607,Zona Rosa,Ciencia Ficción,Edición Ilustrada,45000.0,2,0.0,Transferencia QR
+LIB-9608,Terminal,Historia y Crítica,Tapa Dura,32000.0,4,0.0,Transferencia QR
+LIB-9609,Galería de Arte,Literatura Clásica,Bolsillo,72000.0,4,0.0,Efectivo
+LIB-9610,Centro Histórico,Ensayo Científico,Tapa Blanda,58000.0,1,0.2,Transferencia QR
+LIB-9611,Campus Universitario,Historia y Crítica,Edición Ilustrada,72000.0,2,0.0,Tarjeta Débito
+LIB-9612,Galería de Arte,Ciencia Ficción,Tapa Blanda,58000.0,2,0.0,Efectivo
+LIB-9613,Campus Universitario,Ensayo Científico,Edición Ilustrada,45000.0,3,0.1,Efectivo
+LIB-9614,Terminal,Ciencia Ficción,Edición Ilustrada,32000.0,3,0.0,Transferencia QR
+LIB-9615,Campus Universitario,Ciencia Ficción,Bolsillo,45000.0,2,0.1,Transferencia QR
+LIB-9616,Terminal,Ensayo Científico,Tapa Dura,45000.0,1,0.0,Tarjeta Crédito
+LIB-9617,Centro Histórico,Ciencia Ficción,Bolsillo,89000.0,2,0.15,Tarjeta Crédito
+LIB-9618,Centro Histórico,Ensayo Científico,Bolsillo,32000.0,3,0.15,Transferencia QR
+LIB-9619,Centro Histórico,Historia y Crítica,Tapa Dura,32000.0,5,0.05,Tarjeta Débito
+LIB-9620,Zona Rosa,Historia y Crítica,Edición Ilustrada,32000.0,3,0.05,Tarjeta Crédito
+LIB-9621,Terminal,Literatura Clásica,Bolsillo,32000.0,3,0.2,Tarjeta Débito
+LIB-9622,Zona Rosa,Literatura Clásica,Bolsillo,89000.0,4,0.1,Efectivo
+LIB-9623,Galería de Arte,Ensayo Científico,Edición Ilustrada,32000.0,5,0.15,Efectivo
+LIB-9624,Centro Histórico,Novela Gráfica,Bolsillo,,1,0.05,Tarjeta Débito
+LIB-9625,Galería de Arte,Literatura Clásica,Tapa Blanda,58000.0,5,0.1,Efectivo
+LIB-9626,Galería de Arte,Literatura Clásica,Tapa Blanda,32000.0,3,0.0,Transferencia QR
+LIB-9627,Centro Histórico,Historia y Crítica,Edición Ilustrada,58000.0,6,0.0,Tarjeta Crédito
+LIB-9628,Zona Rosa,Novela Gráfica,Tapa Dura,72000.0,4,0.05,Tarjeta Débito
+LIB-9629,Centro Histórico,Historia y Crítica,Bolsillo,,3,0.1,Tarjeta Débito
+LIB-9630,Galería de Arte,Novela Gráfica,Bolsillo,58000.0,6,0.05,Tarjeta Crédito
+LIB-9631,Galería de Arte,Literatura Clásica,Tapa Blanda,45000.0,1,0.15,Tarjeta Débito
+LIB-9632,Campus Universitario,Novela Gráfica,Bolsillo,72000.0,3,,Tarjeta Crédito
+LIB-9633,Centro Histórico,Novela Gráfica,Edición Ilustrada,72000.0,4,0.1,Tarjeta Crédito
+LIB-9634,Galería de Arte,Ensayo Científico,Bolsillo,45000.0,4,0.15,Tarjeta Débito
+LIB-9635,Campus Universitario,Ciencia Ficción,Tapa Dura,32000.0,2,0.1,Transferencia QR
+LIB-9636,Zona Rosa,Ciencia Ficción,Edición Ilustrada,,1,0.05,Transferencia QR
+LIB-9637,Galería de Arte,Historia y Crítica,Bolsillo,32000.0,1,0.0,Tarjeta Débito
+LIB-9638,Campus Universitario,Novela Gráfica,Edición Ilustrada,72000.0,5,0.1,Transferencia QR
+LIB-9639,Terminal,Ciencia Ficción,Tapa Dura,45000.0,1,0.1,Transferencia QR
+LIB-9640,Galería de Arte,Novela Gráfica,Tapa Blanda,72000.0,3,0.05,Transferencia QR
+LIB-9641,Galería de Arte,Literatura Clásica,Edición Ilustrada,58000.0,6,0.2,Tarjeta Crédito
+LIB-9642,Zona Rosa,Historia y Crítica,Tapa Blanda,32000.0,5,,Efectivo
+LIB-9643,Centro Histórico,Ensayo Científico,Tapa Dura,58000.0,5,0.1,Efectivo
+LIB-9644,Campus Universitario,Ciencia Ficción,Tapa Blanda,72000.0,1,0.0,Tarjeta Débito
+LIB-9645,Centro Histórico,Ciencia Ficción,Tapa Dura,58000.0,2,0.05,Transferencia QR
+LIB-9646,Centro Histórico,Novela Gráfica,Tapa Blanda,115000.0,3,0.05,Efectivo
+LIB-9647,Centro Histórico,Literatura Clásica,Tapa Dura,32000.0,5,0.05,Tarjeta Crédito
+LIB-9648,Terminal,Novela Gráfica,Tapa Blanda,72000.0,6,0.15,Tarjeta Crédito
+LIB-9649,Campus Universitario,Literatura Clásica,Tapa Blanda,72000.0,1,0.05,Tarjeta Crédito
+LIB-9650,Galería de Arte,Historia y Crítica,Tapa Dura,58000.0,6,0.0,Efectivo
+LIB-9651,Centro Histórico,Historia y Crítica,Edición Ilustrada,58000.0,2,0.0,Transferencia QR
+LIB-9652,Galería de Arte,Novela Gráfica,Tapa Blanda,58000.0,3,0.05,Efectivo
+LIB-9653,Campus Universitario,Novela Gráfica,Edición Ilustrada,72000.0,6,0.1,Transferencia QR
+LIB-9654,Campus Universitario,Literatura Clásica,Tapa Blanda,32000.0,5,0.15,Tarjeta Débito
+LIB-9655,Centro Histórico,Ensayo Científico,Tapa Dura,32000.0,1,0.05,Tarjeta Crédito
+LIB-9656,Galería de Arte,Historia y Crítica,Tapa Blanda,72000.0,6,0.0,Transferencia QR
+LIB-9657,Campus Universitario,Historia y Crítica,Tapa Dura,45000.0,2,0.2,Efectivo
+LIB-9658,Terminal,Novela Gráfica,Edición Ilustrada,45000.0,3,0.05,Tarjeta Crédito
+LIB-9659,Terminal,Ciencia Ficción,Edición Ilustrada,89000.0,1,0.0,Efectivo
+LIB-9660,Campus Universitario,Historia y Crítica,Tapa Blanda,45000.0,3,0.1,Transferencia QR
+LIB-9661,Galería de Arte,Novela Gráfica,Bolsillo,45000.0,5,0.0,Efectivo
+LIB-9662,Terminal,Historia y Crítica,Tapa Blanda,58000.0,1,,Efectivo
+LIB-9663,Galería de Arte,Ciencia Ficción,Tapa Blanda,45000.0,2,0.05,Transferencia QR
+LIB-9664,Centro Histórico,Ensayo Científico,Tapa Blanda,,5,0.0,Efectivo
+LIB-9665,Terminal,Literatura Clásica,Tapa Blanda,58000.0,1,0.0,Transferencia QR
+LIB-9666,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,1,0.0,Transferencia QR
+LIB-9667,Campus Universitario,Ensayo Científico,Tapa Dura,,4,0.15,Efectivo
+LIB-9668,Terminal,Ensayo Científico,Tapa Blanda,72000.0,2,0.0,Efectivo
+LIB-9669,Campus Universitario,Ensayo Científico,Bolsillo,89000.0,3,0.1,Tarjeta Débito
+LIB-9670,Centro Histórico,Historia y Crítica,Tapa Dura,58000.0,6,0.0,Tarjeta Débito
+LIB-9671,Campus Universitario,Ensayo Científico,Tapa Dura,45000.0,6,0.1,Tarjeta Crédito
+LIB-9672,Campus Universitario,Historia y Crítica,Tapa Blanda,72000.0,5,0.1,Tarjeta Débito
+LIB-9673,Campus Universitario,Ensayo Científico,Tapa Blanda,45000.0,5,0.0,Tarjeta Débito
+LIB-9674,Zona Rosa,Historia y Crítica,Tapa Dura,32000.0,1,0.05,Transferencia QR
+LIB-9675,Zona Rosa,Novela Gráfica,Tapa Dura,89000.0,1,0.15,Transferencia QR
+LIB-9676,Centro Histórico,Historia y Crítica,Tapa Dura,72000.0,2,0.05,Tarjeta Débito
+LIB-9677,Terminal,Novela Gráfica,Edición Ilustrada,72000.0,3,0.0,Transferencia QR
+LIB-9678,Terminal,Literatura Clásica,Tapa Blanda,58000.0,1,0.0,Tarjeta Débito
+LIB-9679,Galería de Arte,Historia y Crítica,Bolsillo,89000.0,2,0.1,Transferencia QR
+LIB-9680,Galería de Arte,Ensayo Científico,Tapa Dura,32000.0,3,0.15,Tarjeta Débito
+LIB-9681,Galería de Arte,Ciencia Ficción,Tapa Blanda,45000.0,6,0.05,Transferencia QR
+LIB-9682,Centro Histórico,Historia y Crítica,Tapa Blanda,72000.0,6,0.05,Transferencia QR
+LIB-9683,Campus Universitario,Ciencia Ficción,Edición Ilustrada,58000.0,2,0.15,Tarjeta Crédito
+LIB-9684,Centro Histórico,Ciencia Ficción,Edición Ilustrada,58000.0,6,0.0,Tarjeta Crédito
+LIB-9685,Campus Universitario,Ensayo Científico,Tapa Blanda,72000.0,5,0.0,Tarjeta Débito
+LIB-9686,Galería de Arte,Novela Gráfica,Edición Ilustrada,45000.0,1,0.0,Tarjeta Débito
+LIB-9687,Zona Rosa,Novela Gráfica,Tapa Blanda,72000.0,1,0.0,Tarjeta Crédito
+LIB-9688,Galería de Arte,Historia y Crítica,Edición Ilustrada,45000.0,1,,Transferencia QR
+LIB-9689,Centro Histórico,Historia y Crítica,Bolsillo,58000.0,6,0.05,Tarjeta Crédito
+LIB-9690,Campus Universitario,Literatura Clásica,Bolsillo,89000.0,3,0.05,Tarjeta Débito
+LIB-9691,Zona Rosa,Literatura Clásica,Bolsillo,32000.0,5,0.0,Transferencia QR
+LIB-9692,Galería de Arte,Novela Gráfica,Tapa Blanda,58000.0,2,0.0,Tarjeta Crédito
+LIB-9693,Zona Rosa,Novela Gráfica,Tapa Blanda,72000.0,1,0.05,Transferencia QR
+LIB-9694,Campus Universitario,Literatura Clásica,Bolsillo,58000.0,2,0.1,Transferencia QR
+LIB-9695,Terminal,Ciencia Ficción,Bolsillo,45000.0,4,0.1,Efectivo
+LIB-9696,Zona Rosa,Ciencia Ficción,Edición Ilustrada,32000.0,4,0.0,Tarjeta Crédito
+LIB-9697,Zona Rosa,Ensayo Científico,Tapa Dura,45000.0,5,0.1,Tarjeta Débito
+LIB-9698,Terminal,Literatura Clásica,Tapa Dura,32000.0,4,0.05,Efectivo
+LIB-9699,Galería de Arte,Historia y Crítica,Edición Ilustrada,115000.0,5,0.1,Tarjeta Crédito
+LIB-9700,Campus Universitario,Literatura Clásica,Bolsillo,32000.0,5,0.0,Tarjeta Crédito
+LIB-9701,Terminal,Ciencia Ficción,Bolsillo,32000.0,2,,Efectivo
+LIB-9702,Terminal,Historia y Crítica,Tapa Blanda,45000.0,1,0.0,Efectivo
+LIB-9703,Zona Rosa,Ensayo Científico,Tapa Dura,58000.0,6,0.15,Efectivo
+LIB-9704,Terminal,Historia y Crítica,Edición Ilustrada,89000.0,5,0.1,Tarjeta Crédito
+LIB-9705,Centro Histórico,Historia y Crítica,Bolsillo,32000.0,2,0.05,Tarjeta Crédito
+LIB-9706,Centro Histórico,Ciencia Ficción,Edición Ilustrada,32000.0,5,,Tarjeta Crédito
+LIB-9707,Galería de Arte,Ensayo Científico,Bolsillo,72000.0,2,0.05,Tarjeta Débito
+LIB-9708,Terminal,Ciencia Ficción,Tapa Blanda,45000.0,1,0.2,Tarjeta Débito
+LIB-9709,Centro Histórico,Literatura Clásica,Tapa Blanda,58000.0,3,,Tarjeta Débito
+LIB-9710,Galería de Arte,Ciencia Ficción,Tapa Dura,32000.0,3,0.0,Transferencia QR
+LIB-9711,Campus Universitario,Ensayo Científico,Bolsillo,45000.0,6,,Tarjeta Débito
+LIB-9712,Terminal,Novela Gráfica,Tapa Dura,58000.0,3,0.2,Tarjeta Débito
+LIB-9713,Galería de Arte,Ciencia Ficción,Tapa Dura,72000.0,6,,Efectivo
+LIB-9714,Centro Histórico,Literatura Clásica,Bolsillo,45000.0,5,,Transferencia QR
+LIB-9715,Campus Universitario,Ensayo Científico,Tapa Blanda,32000.0,3,0.0,Tarjeta Débito
+LIB-9716,Galería de Arte,Ciencia Ficción,Bolsillo,32000.0,1,0.0,Transferencia QR
+LIB-9717,Centro Histórico,Novela Gráfica,Bolsillo,58000.0,2,0.1,Tarjeta Crédito
+LIB-9718,Zona Rosa,Ciencia Ficción,Bolsillo,72000.0,2,,Tarjeta Débito
+LIB-9719,Centro Histórico,Ciencia Ficción,Bolsillo,58000.0,1,0.1,Transferencia QR
+LIB-9720,Terminal,Literatura Clásica,Edición Ilustrada,58000.0,2,0.0,Tarjeta Débito
+LIB-9721,Galería de Arte,Novela Gráfica,Edición Ilustrada,58000.0,3,0.0,Tarjeta Débito
+LIB-9722,Centro Histórico,Novela Gráfica,Tapa Blanda,45000.0,5,0.1,Efectivo
+LIB-9723,Terminal,Historia y Crítica,Edición Ilustrada,89000.0,5,,Tarjeta Crédito
+LIB-9724,Terminal,Ensayo Científico,Edición Ilustrada,32000.0,3,0.0,Tarjeta Crédito
+LIB-9725,Campus Universitario,Novela Gráfica,Tapa Blanda,45000.0,6,0.1,Tarjeta Crédito
+LIB-9726,Zona Rosa,Historia y Crítica,Edición Ilustrada,32000.0,2,0.0,Tarjeta Débito
+LIB-9727,Terminal,Literatura Clásica,Edición Ilustrada,45000.0,5,0.0,Efectivo
+LIB-9728,Centro Histórico,Historia y Crítica,Bolsillo,45000.0,3,0.0,Transferencia QR
+LIB-9729,Zona Rosa,Historia y Crítica,Tapa Blanda,58000.0,1,0.15,Efectivo
+LIB-9730,Terminal,Literatura Clásica,Edición Ilustrada,58000.0,2,0.0,Transferencia QR
+LIB-9731,Galería de Arte,Historia y Crítica,Tapa Dura,72000.0,4,0.0,Tarjeta Débito
+LIB-9732,Zona Rosa,Ensayo Científico,Edición Ilustrada,32000.0,5,0.0,Transferencia QR
+LIB-9733,Zona Rosa,Literatura Clásica,Tapa Dura,32000.0,1,0.0,Transferencia QR
+LIB-9734,Galería de Arte,Ensayo Científico,Tapa Dura,58000.0,2,0.15,Tarjeta Débito
+LIB-9735,Galería de Arte,Novela Gráfica,Edición Ilustrada,45000.0,2,0.05,Tarjeta Débito
+LIB-9736,Galería de Arte,Ciencia Ficción,Bolsillo,72000.0,2,,Tarjeta Débito
+LIB-9737,Campus Universitario,Ciencia Ficción,Edición Ilustrada,58000.0,3,0.2,Transferencia QR
+LIB-9738,Centro Histórico,Historia y Crítica,Tapa Dura,32000.0,1,0.15,Tarjeta Crédito
+LIB-9739,Zona Rosa,Ensayo Científico,Bolsillo,58000.0,6,0.1,Transferencia QR
+LIB-9740,Campus Universitario,Ensayo Científico,Tapa Dura,89000.0,3,0.05,Tarjeta Débito
+LIB-9741,Campus Universitario,Ensayo Científico,Edición Ilustrada,32000.0,3,0.0,Transferencia QR
+LIB-9742,Galería de Arte,Ensayo Científico,Bolsillo,32000.0,2,0.05,Transferencia QR
+LIB-9743,Centro Histórico,Ciencia Ficción,Bolsillo,72000.0,1,0.0,Efectivo
+LIB-9744,Campus Universitario,Literatura Clásica,Tapa Dura,45000.0,1,0.0,Tarjeta Crédito
+LIB-9745,Galería de Arte,Ensayo Científico,Bolsillo,58000.0,6,0.15,Transferencia QR
+LIB-9746,Campus Universitario,Ensayo Científico,Tapa Dura,45000.0,2,0.0,Transferencia QR
+LIB-9747,Campus Universitario,Historia y Crítica,Tapa Blanda,32000.0,2,0.05,Tarjeta Débito
+LIB-9748,Zona Rosa,Novela Gráfica,Edición Ilustrada,58000.0,6,0.1,Tarjeta Crédito
+LIB-9749,Centro Histórico,Novela Gráfica,Tapa Blanda,32000.0,3,0.2,Tarjeta Débito
+LIB-9750,Galería de Arte,Ensayo Científico,Tapa Dura,58000.0,3,0.0,Transferencia QR
+LIB-9751,Terminal,Literatura Clásica,Tapa Blanda,45000.0,4,0.0,Tarjeta Débito
+LIB-9752,Campus Universitario,Historia y Crítica,Tapa Blanda,89000.0,4,0.2,Tarjeta Débito
+LIB-9753,Campus Universitario,Ensayo Científico,Edición Ilustrada,58000.0,3,0.0,Tarjeta Crédito
+LIB-9754,Zona Rosa,Literatura Clásica,Edición Ilustrada,58000.0,4,0.05,Transferencia QR
+LIB-9755,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,3,0.15,Transferencia QR
+LIB-9756,Zona Rosa,Literatura Clásica,Tapa Dura,58000.0,2,,Tarjeta Débito
+LIB-9757,Campus Universitario,Ensayo Científico,Bolsillo,89000.0,1,0.0,Efectivo
+LIB-9758,Campus Universitario,Novela Gráfica,Tapa Blanda,89000.0,6,,Efectivo
+LIB-9759,Terminal,Literatura Clásica,Tapa Dura,32000.0,1,0.0,Transferencia QR
+LIB-9760,Terminal,Ensayo Científico,Edición Ilustrada,72000.0,5,0.0,Tarjeta Débito
+LIB-9761,Terminal,Historia y Crítica,Tapa Dura,58000.0,3,0.0,Tarjeta Crédito
+LIB-9762,Campus Universitario,Historia y Crítica,Bolsillo,45000.0,4,0.15,Efectivo
+LIB-9763,Centro Histórico,Novela Gráfica,Tapa Blanda,32000.0,1,0.1,Tarjeta Crédito
+LIB-9764,Centro Histórico,Historia y Crítica,Edición Ilustrada,45000.0,3,0.0,Efectivo
+LIB-9765,Galería de Arte,Ciencia Ficción,Edición Ilustrada,45000.0,5,0.0,Tarjeta Débito
+LIB-9766,Galería de Arte,Historia y Crítica,Tapa Blanda,45000.0,5,0.05,Transferencia QR
+LIB-9767,Galería de Arte,Novela Gráfica,Tapa Blanda,32000.0,2,0.1,Transferencia QR
+LIB-9768,Zona Rosa,Ciencia Ficción,Tapa Blanda,45000.0,6,0.05,Tarjeta Crédito
+LIB-9769,Terminal,Ciencia Ficción,Edición Ilustrada,72000.0,4,0.15,Transferencia QR
+LIB-9770,Galería de Arte,Historia y Crítica,Bolsillo,72000.0,5,0.1,Tarjeta Débito
+LIB-9771,Zona Rosa,Literatura Clásica,Tapa Blanda,45000.0,1,0.0,Tarjeta Débito
+LIB-9772,Galería de Arte,Historia y Crítica,Tapa Dura,58000.0,3,0.2,Efectivo
+LIB-9773,Campus Universitario,Ciencia Ficción,Tapa Dura,45000.0,5,,Tarjeta Débito
+LIB-9774,Centro Histórico,Novela Gráfica,Tapa Blanda,32000.0,2,0.0,Tarjeta Débito
+LIB-9775,Zona Rosa,Novela Gráfica,Edición Ilustrada,89000.0,1,0.2,Transferencia QR
+LIB-9776,Centro Histórico,Historia y Crítica,Tapa Blanda,58000.0,1,0.0,Transferencia QR
+LIB-9777,Campus Universitario,Ciencia Ficción,Tapa Dura,89000.0,3,0.0,Tarjeta Crédito
+LIB-9778,Galería de Arte,Ciencia Ficción,Edición Ilustrada,32000.0,4,0.15,Tarjeta Débito
+LIB-9779,Campus Universitario,Ciencia Ficción,Tapa Dura,45000.0,3,0.0,Tarjeta Débito
+LIB-9780,Terminal,Ensayo Científico,Tapa Blanda,45000.0,3,0.0,Tarjeta Crédito
+LIB-9781,Terminal,Ciencia Ficción,Tapa Blanda,45000.0,1,0.05,Tarjeta Débito
+LIB-9782,Campus Universitario,Literatura Clásica,Tapa Dura,45000.0,1,0.0,Tarjeta Crédito
+LIB-9783,Terminal,Historia y Crítica,Edición Ilustrada,32000.0,1,0.0,Tarjeta Débito
+LIB-9784,Centro Histórico,Ciencia Ficción,Bolsillo,72000.0,1,0.05,Efectivo
+LIB-9785,Campus Universitario,Ciencia Ficción,Tapa Blanda,32000.0,1,0.15,Transferencia QR
+LIB-9786,Zona Rosa,Historia y Crítica,Tapa Blanda,45000.0,6,0.1,Transferencia QR
+LIB-9787,Centro Histórico,Literatura Clásica,Tapa Dura,58000.0,5,0.1,Tarjeta Crédito
+LIB-9788,Terminal,Historia y Crítica,Bolsillo,58000.0,6,0.05,Tarjeta Débito
+LIB-9789,Centro Histórico,Novela Gráfica,Tapa Dura,58000.0,2,0.0,Tarjeta Débito
+LIB-9790,Centro Histórico,Historia y Crítica,Tapa Blanda,32000.0,3,0.05,Tarjeta Crédito
+LIB-9791,Campus Universitario,Literatura Clásica,Bolsillo,89000.0,6,,Tarjeta Crédito
+LIB-9792,Galería de Arte,Ciencia Ficción,Tapa Dura,72000.0,2,0.0,Tarjeta Crédito
+LIB-9793,Zona Rosa,Historia y Crítica,Edición Ilustrada,58000.0,3,0.05,Tarjeta Crédito
+LIB-9794,Campus Universitario,Literatura Clásica,Bolsillo,45000.0,1,0.1,Tarjeta Débito
+LIB-9795,Terminal,Novela Gráfica,Tapa Dura,32000.0,3,0.05,Tarjeta Débito
+LIB-9796,Zona Rosa,Ciencia Ficción,Edición Ilustrada,72000.0,2,0.05,Tarjeta Débito
+LIB-9797,Galería de Arte,Novela Gráfica,Edición Ilustrada,89000.0,4,0.0,Transferencia QR
+LIB-9798,Terminal,Historia y Crítica,Bolsillo,32000.0,6,0.0,Tarjeta Crédito
+LIB-9799,Galería de Arte,Literatura Clásica,Bolsillo,89000.0,6,0.0,Efectivo
+LIB-9800,Galería de Arte,Historia y Crítica,Tapa Blanda,72000.0,5,0.15,Tarjeta Crédito
+LIB-9801,Galería de Arte,Novela Gráfica,Bolsillo,32000.0,6,0.1,Tarjeta Débito
+LIB-9802,Terminal,Novela Gráfica,Edición Ilustrada,45000.0,1,0.2,Tarjeta Débito
+LIB-9803,Galería de Arte,Ensayo Científico,Bolsillo,58000.0,5,0.0,Tarjeta Débito
+LIB-9804,Centro Histórico,Ciencia Ficción,Tapa Dura,58000.0,3,0.1,Tarjeta Crédito
+LIB-9805,Terminal,Literatura Clásica,Edición Ilustrada,,1,0.1,Tarjeta Crédito
+LIB-9806,Campus Universitario,Novela Gráfica,Edición Ilustrada,58000.0,5,0.15,Tarjeta Crédito
+LIB-9807,Zona Rosa,Historia y Crítica,Tapa Dura,72000.0,5,0.2,Tarjeta Crédito
+LIB-9808,Terminal,Historia y Crítica,Tapa Blanda,32000.0,5,0.05,Transferencia QR
+LIB-9809,Zona Rosa,Ciencia Ficción,Tapa Blanda,58000.0,2,0.2,Transferencia QR
+LIB-9810,Zona Rosa,Ciencia Ficción,Edición Ilustrada,58000.0,4,0.0,Tarjeta Débito
+LIB-9811,Campus Universitario,Literatura Clásica,Tapa Dura,45000.0,2,0.05,Efectivo
+LIB-9812,Campus Universitario,Literatura Clásica,Edición Ilustrada,89000.0,3,0.0,Transferencia QR
+LIB-9813,Centro Histórico,Ensayo Científico,Edición Ilustrada,45000.0,6,0.15,Tarjeta Crédito
+LIB-9814,Centro Histórico,Ciencia Ficción,Tapa Blanda,32000.0,1,0.05,Efectivo
+LIB-9815,Zona Rosa,Ciencia Ficción,Bolsillo,89000.0,1,0.1,Tarjeta Crédito
+LIB-9816,Zona Rosa,Ensayo Científico,Bolsillo,115000.0,3,0.05,Tarjeta Crédito
+LIB-9817,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,6,0.0,Tarjeta Débito
+LIB-9818,Zona Rosa,Ciencia Ficción,Edición Ilustrada,45000.0,1,0.15,Transferencia QR
+LIB-9819,Centro Histórico,Literatura Clásica,Edición Ilustrada,58000.0,1,0.0,Tarjeta Crédito
+LIB-9820,Centro Histórico,Novela Gráfica,Edición Ilustrada,72000.0,2,0.1,Tarjeta Crédito
+LIB-9821,Terminal,Historia y Crítica,Tapa Blanda,72000.0,2,0.1,Tarjeta Débito
+LIB-9822,Zona Rosa,Literatura Clásica,Tapa Blanda,58000.0,3,0.1,Tarjeta Crédito
+LIB-9823,Campus Universitario,Ensayo Científico,Tapa Dura,72000.0,5,0.05,Tarjeta Débito
+LIB-9824,Centro Histórico,Novela Gráfica,Bolsillo,58000.0,2,0.15,Transferencia QR
+LIB-9825,Terminal,Novela Gráfica,Bolsillo,58000.0,2,0.15,Efectivo
+LIB-9826,Zona Rosa,Ciencia Ficción,Tapa Dura,89000.0,4,0.15,Tarjeta Crédito
+LIB-9827,Campus Universitario,Historia y Crítica,Edición Ilustrada,58000.0,5,0.05,Tarjeta Débito
+LIB-9828,Galería de Arte,Ensayo Científico,Tapa Blanda,58000.0,5,0.0,Tarjeta Crédito
+LIB-9829,Zona Rosa,Novela Gráfica,Bolsillo,58000.0,6,0.1,Tarjeta Débito
+LIB-9830,Terminal,Novela Gráfica,Bolsillo,89000.0,4,0.05,Tarjeta Débito
+LIB-9831,Campus Universitario,Historia y Crítica,Bolsillo,45000.0,5,0.05,Tarjeta Crédito
+LIB-9832,Galería de Arte,Historia y Crítica,Tapa Blanda,45000.0,5,0.0,Transferencia QR
+LIB-9833,Terminal,Novela Gráfica,Edición Ilustrada,58000.0,2,0.0,Efectivo
+LIB-9834,Campus Universitario,Ciencia Ficción,Tapa Blanda,58000.0,5,,Tarjeta Débito
+LIB-9835,Campus Universitario,Ciencia Ficción,Tapa Blanda,58000.0,1,0.0,Transferencia QR
+LIB-9836,Centro Histórico,Historia y Crítica,Tapa Dura,89000.0,3,0.1,Tarjeta Débito
+LIB-9837,Zona Rosa,Historia y Crítica,Tapa Dura,72000.0,5,0.2,Transferencia QR
+LIB-9838,Zona Rosa,Ensayo Científico,Tapa Blanda,72000.0,6,0.0,Tarjeta Débito
+LIB-9839,Galería de Arte,Novela Gráfica,Bolsillo,89000.0,4,0.0,Tarjeta Crédito
+LIB-9840,Terminal,Historia y Crítica,Tapa Dura,45000.0,4,0.05,Efectivo
+LIB-9841,Campus Universitario,Novela Gráfica,Bolsillo,32000.0,3,,Tarjeta Débito
+LIB-9842,Galería de Arte,Novela Gráfica,Bolsillo,32000.0,6,0.1,Efectivo
+LIB-9843,Campus Universitario,Historia y Crítica,Edición Ilustrada,32000.0,1,0.0,Tarjeta Débito
+LIB-9844,Galería de Arte,Literatura Clásica,Bolsillo,32000.0,4,0.15,Tarjeta Débito
+LIB-9845,Terminal,Historia y Crítica,Tapa Blanda,58000.0,1,0.05,Tarjeta Crédito
+LIB-9846,Centro Histórico,Ciencia Ficción,Tapa Dura,,1,0.0,Tarjeta Débito
+LIB-9847,Centro Histórico,Literatura Clásica,Bolsillo,45000.0,4,0.0,Tarjeta Crédito
+LIB-9848,Zona Rosa,Ensayo Científico,Tapa Blanda,45000.0,2,0.05,Tarjeta Crédito
+LIB-9849,Centro Histórico,Ciencia Ficción,Edición Ilustrada,72000.0,2,0.0,Transferencia QR
+LIB-9850,Galería de Arte,Novela Gráfica,Edición Ilustrada,45000.0,6,0.0,Efectivo
+LIB-9851,Campus Universitario,Novela Gráfica,Tapa Blanda,45000.0,4,0.0,Tarjeta Débito
+LIB-9852,Zona Rosa,Ensayo Científico,Tapa Dura,32000.0,1,0.2,Transferencia QR
+LIB-9853,Centro Histórico,Historia y Crítica,Edición Ilustrada,58000.0,4,,Efectivo
+LIB-9854,Campus Universitario,Ciencia Ficción,Tapa Blanda,72000.0,3,0.0,Tarjeta Crédito
+LIB-9855,Zona Rosa,Ensayo Científico,Tapa Blanda,45000.0,1,0.15,Efectivo
+LIB-9856,Centro Histórico,Ciencia Ficción,Bolsillo,72000.0,5,0.15,Efectivo
+LIB-9857,Terminal,Ensayo Científico,Bolsillo,72000.0,5,0.0,Transferencia QR
+LIB-9858,Galería de Arte,Historia y Crítica,Tapa Blanda,89000.0,5,0.15,Efectivo
+LIB-9859,Centro Histórico,Ciencia Ficción,Edición Ilustrada,45000.0,6,0.15,Tarjeta Débito
+LIB-9860,Campus Universitario,Ensayo Científico,Tapa Blanda,89000.0,4,0.0,Tarjeta Débito
+LIB-9861,Zona Rosa,Ciencia Ficción,Edición Ilustrada,32000.0,2,,Transferencia QR
+LIB-9862,Campus Universitario,Ciencia Ficción,Bolsillo,89000.0,1,0.1,Tarjeta Débito
+LIB-9863,Terminal,Historia y Crítica,Edición Ilustrada,58000.0,6,0.15,Tarjeta Débito
+LIB-9864,Terminal,Ensayo Científico,Edición Ilustrada,58000.0,2,0.0,Tarjeta Crédito
+LIB-9865,Zona Rosa,Novela Gráfica,Edición Ilustrada,72000.0,6,,Transferencia QR
+LIB-9866,Campus Universitario,Ensayo Científico,Tapa Blanda,45000.0,3,0.05,Tarjeta Crédito
+LIB-9867,Galería de Arte,Historia y Crítica,Bolsillo,58000.0,2,0.05,Efectivo
+LIB-9868,Centro Histórico,Ensayo Científico,Tapa Blanda,45000.0,1,0.0,Tarjeta Débito
+LIB-9869,Zona Rosa,Ciencia Ficción,Edición Ilustrada,32000.0,5,0.05,Tarjeta Crédito
+LIB-9870,Campus Universitario,Ensayo Científico,Tapa Blanda,45000.0,2,0.2,Tarjeta Débito
+LIB-9871,Terminal,Literatura Clásica,Bolsillo,58000.0,5,0.1,Transferencia QR
+LIB-9872,Zona Rosa,Literatura Clásica,Tapa Blanda,32000.0,3,0.1,Tarjeta Débito
+LIB-9873,Galería de Arte,Ciencia Ficción,Tapa Dura,32000.0,3,0.2,Tarjeta Crédito
+LIB-9874,Terminal,Historia y Crítica,Edición Ilustrada,32000.0,1,0.0,Transferencia QR
+LIB-9875,Centro Histórico,Historia y Crítica,Tapa Dura,72000.0,3,0.2,Efectivo
+LIB-9876,Galería de Arte,Historia y Crítica,Tapa Blanda,45000.0,1,,Efectivo
+LIB-9877,Campus Universitario,Novela Gráfica,Edición Ilustrada,58000.0,4,0.1,Tarjeta Débito
+LIB-9878,Campus Universitario,Literatura Clásica,Tapa Dura,45000.0,1,0.05,Efectivo
+LIB-9879,Terminal,Literatura Clásica,Edición Ilustrada,45000.0,2,0.0,Tarjeta Crédito
+LIB-9880,Zona Rosa,Historia y Crítica,Tapa Blanda,32000.0,4,0.1,Transferencia QR
+LIB-9881,Zona Rosa,Literatura Clásica,Bolsillo,45000.0,5,0.0,Tarjeta Crédito
+LIB-9882,Campus Universitario,Historia y Crítica,Tapa Dura,89000.0,1,0.05,Transferencia QR
+LIB-9883,Galería de Arte,Ciencia Ficción,Edición Ilustrada,58000.0,2,0.1,Efectivo
+LIB-9884,Centro Histórico,Literatura Clásica,Bolsillo,58000.0,4,0.05,Efectivo
+LIB-9885,Galería de Arte,Ciencia Ficción,Tapa Blanda,58000.0,5,0.0,Transferencia QR
+LIB-9886,Zona Rosa,Ensayo Científico,Tapa Dura,58000.0,3,0.0,Tarjeta Débito
+LIB-9887,Zona Rosa,Ensayo Científico,Tapa Blanda,45000.0,2,0.0,Efectivo
+LIB-9888,Zona Rosa,Ciencia Ficción,Edición Ilustrada,89000.0,1,,Efectivo
+LIB-9889,Centro Histórico,Ciencia Ficción,Tapa Blanda,58000.0,6,,Tarjeta Crédito
+LIB-9890,Zona Rosa,Literatura Clásica,Tapa Blanda,58000.0,4,0.0,Tarjeta Débito
+LIB-9891,Centro Histórico,Novela Gráfica,Bolsillo,32000.0,4,0.0,Efectivo
+LIB-9892,Galería de Arte,Literatura Clásica,Edición Ilustrada,72000.0,4,0.0,Tarjeta Crédito
+LIB-9893,Zona Rosa,Ensayo Científico,Edición Ilustrada,32000.0,3,0.0,Tarjeta Crédito
+LIB-9894,Zona Rosa,Literatura Clásica,Tapa Blanda,58000.0,6,0.05,Tarjeta Crédito
+LIB-9895,Galería de Arte,Ensayo Científico,Bolsillo,45000.0,5,0.2,Tarjeta Crédito
+LIB-9896,Terminal,Ciencia Ficción,Tapa Dura,58000.0,5,0.05,Transferencia QR
+LIB-9897,Galería de Arte,Literatura Clásica,Tapa Dura,58000.0,4,0.05,Efectivo
+LIB-9898,Terminal,Ensayo Científico,Bolsillo,32000.0,5,0.0,Transferencia QR
+LIB-9899,Campus Universitario,Ciencia Ficción,Bolsillo,32000.0,2,0.1,Tarjeta Crédito
+LIB-9900,Campus Universitario,Literatura Clásica,Edición Ilustrada,58000.0,3,0.0,Tarjeta Débito
+LIB-9901,Terminal,Novela Gráfica,Tapa Dura,,1,0.1,Tarjeta Débito
+LIB-9902,Campus Universitario,Novela Gráfica,Tapa Blanda,72000.0,3,0.0,Tarjeta Débito
+LIB-9903,Zona Rosa,Ciencia Ficción,Edición Ilustrada,72000.0,1,0.0,Efectivo
+LIB-9904,Centro Histórico,Ciencia Ficción,Bolsillo,45000.0,5,0.05,Tarjeta Débito
+LIB-9905,Zona Rosa,Historia y Crítica,Edición Ilustrada,89000.0,5,0.1,Tarjeta Crédito
+LIB-9906,Galería de Arte,Ciencia Ficción,Tapa Dura,32000.0,2,0.15,Efectivo
+LIB-9907,Campus Universitario,Historia y Crítica,Edición Ilustrada,32000.0,2,0.0,Tarjeta Débito
+LIB-9908,Zona Rosa,Literatura Clásica,Tapa Blanda,72000.0,1,0.0,Transferencia QR
+LIB-9909,Galería de Arte,Historia y Crítica,Tapa Dura,45000.0,1,0.1,Tarjeta Débito
+LIB-9910,Zona Rosa,Novela Gráfica,Bolsillo,89000.0,1,0.0,Efectivo
+LIB-9911,Centro Histórico,Literatura Clásica,Bolsillo,58000.0,2,,Tarjeta Crédito
+LIB-9912,Galería de Arte,Ciencia Ficción,Tapa Blanda,45000.0,2,0.05,Efectivo
+LIB-9913,Centro Histórico,Novela Gráfica,Tapa Dura,72000.0,5,0.15,Transferencia QR
+LIB-9914,Campus Universitario,Historia y Crítica,Edición Ilustrada,45000.0,6,0.15,Efectivo
+LIB-9915,Galería de Arte,Historia y Crítica,Edición Ilustrada,72000.0,6,0.0,Transferencia QR
+LIB-9916,Galería de Arte,Ciencia Ficción,Tapa Blanda,72000.0,2,0.0,Efectivo
+LIB-9917,Galería de Arte,Ciencia Ficción,Tapa Blanda,32000.0,1,,Tarjeta Crédito
+LIB-9918,Campus Universitario,Historia y Crítica,Edición Ilustrada,32000.0,3,0.0,Tarjeta Débito
+LIB-9919,Galería de Arte,Historia y Crítica,Tapa Dura,32000.0,2,0.15,Tarjeta Débito
+LIB-9920,Galería de Arte,Ciencia Ficción,Tapa Blanda,32000.0,2,0.05,Tarjeta Crédito
+LIB-9921,Zona Rosa,Ciencia Ficción,Tapa Dura,72000.0,2,0.05,Tarjeta Crédito
+LIB-9922,Galería de Arte,Historia y Crítica,Tapa Dura,,2,0.2,Tarjeta Crédito
+LIB-9923,Galería de Arte,Ciencia Ficción,Bolsillo,58000.0,4,0.15,Tarjeta Crédito
+LIB-9924,Galería de Arte,Novela Gráfica,Bolsillo,58000.0,1,0.0,Tarjeta Crédito
+LIB-9925,Galería de Arte,Novela Gráfica,Edición Ilustrada,,3,0.1,Efectivo
+LIB-9926,Terminal,Novela Gráfica,Tapa Dura,58000.0,2,0.1,Tarjeta Crédito
+LIB-9927,Galería de Arte,Ensayo Científico,Tapa Dura,32000.0,3,0.05,Tarjeta Débito
+LIB-9928,Zona Rosa,Literatura Clásica,Edición Ilustrada,72000.0,1,0.0,Tarjeta Débito
+LIB-9929,Centro Histórico,Ciencia Ficción,Tapa Blanda,32000.0,4,,Tarjeta Débito
+LIB-9930,Zona Rosa,Novela Gráfica,Tapa Blanda,45000.0,1,0.1,Transferencia QR
+LIB-9931,Galería de Arte,Historia y Crítica,Tapa Dura,,4,0.2,Tarjeta Crédito
+LIB-9932,Campus Universitario,Novela Gráfica,Bolsillo,58000.0,1,0.05,Transferencia QR
+LIB-9933,Galería de Arte,Historia y Crítica,Tapa Dura,58000.0,3,,Tarjeta Débito
+LIB-9934,Zona Rosa,Historia y Crítica,Tapa Dura,72000.0,4,,Tarjeta Débito
+LIB-9935,Galería de Arte,Ensayo Científico,Tapa Dura,45000.0,4,0.1,Transferencia QR
+LIB-9936,Zona Rosa,Historia y Crítica,Tapa Blanda,32000.0,2,0.05,Transferencia QR
+LIB-9937,Terminal,Literatura Clásica,Tapa Dura,72000.0,2,0.1,Tarjeta Débito
+LIB-9938,Galería de Arte,Literatura Clásica,Edición Ilustrada,58000.0,3,0.05,Transferencia QR
+LIB-9939,Campus Universitario,Ensayo Científico,Tapa Blanda,32000.0,6,0.0,Tarjeta Crédito
+LIB-9940,Centro Histórico,Historia y Crítica,Edición Ilustrada,32000.0,4,0.1,Tarjeta Débito
+LIB-9941,Campus Universitario,Literatura Clásica,Edición Ilustrada,89000.0,2,0.0,Tarjeta Débito
+LIB-9942,Zona Rosa,Ciencia Ficción,Tapa Blanda,89000.0,4,0.0,Tarjeta Crédito
+LIB-9943,Galería de Arte,Novela Gráfica,Tapa Dura,32000.0,4,0.05,Tarjeta Crédito
+LIB-9944,Terminal,Literatura Clásica,Edición Ilustrada,115000.0,1,0.05,Tarjeta Crédito
+LIB-9945,Zona Rosa,Ciencia Ficción,Tapa Blanda,72000.0,3,0.1,Efectivo
+LIB-9946,Galería de Arte,Historia y Crítica,Tapa Dura,45000.0,2,0.0,Tarjeta Crédito
+LIB-9947,Galería de Arte,Novela Gráfica,Tapa Blanda,72000.0,6,0.05,Tarjeta Crédito
+LIB-9948,Zona Rosa,Novela Gráfica,Bolsillo,58000.0,3,0.0,Tarjeta Crédito
+LIB-9949,Galería de Arte,Ensayo Científico,Edición Ilustrada,32000.0,2,0.0,Tarjeta Débito
+LIB-9950,Centro Histórico,Novela Gráfica,Bolsillo,89000.0,4,0.1,Tarjeta Débito
+LIB-9951,Campus Universitario,Ciencia Ficción,Tapa Blanda,115000.0,1,0.0,Tarjeta Crédito
+LIB-9952,Centro Histórico,Literatura Clásica,Edición Ilustrada,45000.0,5,0.1,Transferencia QR
+LIB-9953,Galería de Arte,Ensayo Científico,Tapa Dura,72000.0,1,,Efectivo
+LIB-9954,Campus Universitario,Novela Gráfica,Bolsillo,115000.0,2,,Tarjeta Débito
+LIB-9955,Terminal,Novela Gráfica,Edición Ilustrada,58000.0,6,,Efectivo
+LIB-9956,Centro Histórico,Novela Gráfica,Tapa Blanda,115000.0,2,0.2,Efectivo
+LIB-9957,Campus Universitario,Novela Gráfica,Tapa Blanda,45000.0,3,0.0,Tarjeta Crédito
+LIB-9958,Terminal,Ensayo Científico,Tapa Dura,32000.0,6,0.0,Tarjeta Crédito
+LIB-9959,Zona Rosa,Literatura Clásica,Tapa Blanda,45000.0,4,0.0,Tarjeta Débito
+LIB-9960,Terminal,Novela Gráfica,Edición Ilustrada,72000.0,2,0.05,Transferencia QR
+LIB-9961,Terminal,Historia y Crítica,Bolsillo,58000.0,4,0.05,Tarjeta Débito
+LIB-9962,Terminal,Novela Gráfica,Bolsillo,115000.0,1,0.1,Tarjeta Débito
+LIB-9963,Centro Histórico,Ciencia Ficción,Edición Ilustrada,58000.0,6,0.05,Tarjeta Débito
+LIB-9964,Terminal,Ensayo Científico,Edición Ilustrada,32000.0,5,0.0,Tarjeta Crédito
+LIB-9965,Campus Universitario,Novela Gráfica,Tapa Blanda,72000.0,4,0.0,Tarjeta Débito
+LIB-9966,Centro Histórico,Historia y Crítica,Bolsillo,45000.0,3,0.1,Transferencia QR
+LIB-9967,Campus Universitario,Novela Gráfica,Bolsillo,45000.0,6,0.05,Efectivo
+LIB-9968,Centro Histórico,Ciencia Ficción,Bolsillo,45000.0,6,0.0,Transferencia QR
+LIB-9969,Centro Histórico,Historia y Crítica,Bolsillo,89000.0,2,0.15,Tarjeta Débito
+LIB-9970,Campus Universitario,Historia y Crítica,Bolsillo,58000.0,4,0.15,Tarjeta Débito
+LIB-9971,Terminal,Historia y Crítica,Bolsillo,58000.0,3,0.2,Tarjeta Débito
+LIB-9972,Galería de Arte,Ciencia Ficción,Tapa Dura,45000.0,6,0.0,Tarjeta Débito
+LIB-9973,Centro Histórico,Literatura Clásica,Bolsillo,45000.0,4,0.0,Tarjeta Crédito
+LIB-9974,Campus Universitario,Ensayo Científico,Tapa Dura,58000.0,5,0.05,Efectivo
+LIB-9975,Centro Histórico,Ciencia Ficción,Tapa Dura,89000.0,2,0.0,Tarjeta Crédito
+LIB-9976,Terminal,Ensayo Científico,Bolsillo,72000.0,4,0.0,Transferencia QR
+LIB-9977,Zona Rosa,Literatura Clásica,Bolsillo,58000.0,1,0.1,Efectivo
+LIB-9978,Galería de Arte,Historia y Crítica,Tapa Dura,58000.0,1,0.05,Transferencia QR
+LIB-9979,Campus Universitario,Ensayo Científico,Tapa Dura,,5,0.15,Tarjeta Crédito
+LIB-9980,Galería de Arte,Historia y Crítica,Bolsillo,72000.0,5,0.15,Tarjeta Crédito
+LIB-9981,Terminal,Historia y Crítica,Edición Ilustrada,,1,0.05,Tarjeta Débito
+LIB-9982,Galería de Arte,Novela Gráfica,Edición Ilustrada,32000.0,2,0.0,Tarjeta Crédito
+LIB-9983,Campus Universitario,Literatura Clásica,Tapa Blanda,89000.0,2,,Tarjeta Crédito
+LIB-9984,Centro Histórico,Historia y Crítica,Edición Ilustrada,72000.0,1,0.0,Transferencia QR
+LIB-9985,Terminal,Historia y Crítica,Edición Ilustrada,58000.0,3,0.0,Tarjeta Crédito
+LIB-9986,Centro Histórico,Ciencia Ficción,Edición Ilustrada,45000.0,4,0.1,Tarjeta Crédito
+LIB-9987,Campus Universitario,Novela Gráfica,Edición Ilustrada,58000.0,3,0.1,Tarjeta Débito
+LIB-9988,Galería de Arte,Historia y Crítica,Tapa Dura,,6,0.0,Tarjeta Débito
+LIB-9989,Galería de Arte,Ensayo Científico,Tapa Dura,89000.0,4,0.2,Tarjeta Débito
+LIB-9990,Terminal,Ciencia Ficción,Tapa Dura,45000.0,6,0.0,Tarjeta Crédito
+LIB-9991,Centro Histórico,Historia y Crítica,Edición Ilustrada,115000.0,4,0.05,Efectivo
+LIB-9992,Centro Histórico,Ciencia Ficción,Tapa Blanda,58000.0,4,0.05,Tarjeta Crédito
+LIB-9993,Campus Universitario,Ciencia Ficción,Tapa Dura,,3,0.1,Transferencia QR
+LIB-9994,Centro Histórico,Ciencia Ficción,Tapa Blanda,45000.0,2,0.05,Tarjeta Crédito
+LIB-9995,Galería de Arte,Novela Gráfica,Tapa Dura,115000.0,3,0.05,Efectivo
+LIB-9996,Centro Histórico,Novela Gráfica,Bolsillo,,3,0.1,Transferencia QR
+LIB-9997,Campus Universitario,Ensayo Científico,Tapa Dura,45000.0,3,0.1,Tarjeta Crédito
+LIB-9998,Centro Histórico,Novela Gráfica,Tapa Dura,32000.0,2,0.0,Transferencia QR
+LIB-9999,Galería de Arte,Historia y Crítica,Edición Ilustrada,72000.0,4,0.0,Transferencia QR
+LIB-10000,Galería de Arte,Literatura Clásica,Tapa Dura,58000.0,5,0.0,Tarjeta Crédito
+LIB-9161,Zona Rosa,Literatura Clásica,Edición Ilustrada,32000.0,6,0.0,Tarjeta Débito
+LIB-9162,Galería de Arte,Literatura Clásica,Edición Ilustrada,72000.0,3,0.1,Tarjeta Crédito
+LIB-9163,Campus Universitario,Literatura Clásica,Tapa Dura,32000.0,1,0.05,Tarjeta Crédito
+LIB-9164,Zona Rosa,Ciencia Ficción,Tapa Blanda,32000.0,1,0.1,Tarjeta Crédito
+LIB-9165,Centro Histórico,Novela Gráfica,Edición Ilustrada,32000.0,3,0.1,Transferencia QR
+LIB-9166,Campus Universitario,Historia y Crítica,Tapa Blanda,89000.0,2,0.0,Tarjeta Crédito
+LIB-9167,Terminal,Ciencia Ficción,Bolsillo,58000.0,5,0.2,Tarjeta Débito
+LIB-9168,Centro Histórico,Ensayo Científico,Tapa Dura,89000.0,6,0.0,Tarjeta Débito
+LIB-9169,Terminal,Novela Gráfica,Tapa Blanda,72000.0,2,0.05,Tarjeta Crédito
+LIB-9170,Zona Rosa,Novela Gráfica,Tapa Blanda,72000.0,2,,Transferencia QR
+LIB-9171,Terminal,Ensayo Científico,Bolsillo,72000.0,2,0.0,Tarjeta Crédito
+LIB-9172,Campus Universitario,Ciencia Ficción,Tapa Dura,72000.0,5,0.1,Tarjeta Crédito
